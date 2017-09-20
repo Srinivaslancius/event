@@ -26,13 +26,7 @@
 		<link rel='stylesheet' href='css/layout.css' type='text/css' media='all'/>
 
 		<link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Dosis:100,300,400,700,900,300italic,400italic,700italic,900italic' type='text/css' media='all'/>
-
-		<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-        <!--[if lt IE 9]>
-            <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-            <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-        <![endif]-->
+		
 	</head>
 	<body class="page-menu-transparent theme-light">
 		<!--preloader-->
@@ -72,9 +66,15 @@
 									<img class="noo-logo-img noo-logo-floating" src="images/logo.png" alt="">
 								</a>
 							</div>  
+							<?php
+							    $currentFile = $_SERVER["PHP_SELF"];
+							    $parts = Explode('/', $currentFile);
+							    $page_name = $parts[count($parts) - 1];
+							?>
 							<nav class="collapse navbar-collapse noo-navbar-collapse">
 								<ul class="navbar-nav sf-menu">
-									<li class="current-menu-item menu-item-has-children">
+
+									<li class="<?php if($page_name == 'index.php') { ?>current-menu-item <?php } ?> menu-item-has-children">
 										<a href="index.php">Home</a>
 										<!-- <ul class="sub-menu">
 											<li><a href="index-video.html">Home video</a></li>
@@ -82,21 +82,21 @@
 											<li><a href="index-revolution.html">Home Revolution</a></li>
 										</ul> -->
 									</li>
-									<li class="menu-item-has-children">
+									<li class="<?php if($page_name == 'maesteos.php') { ?>current-menu-item <?php } ?> menu-item-has-children">
 										<a href="maesteos.php">MAESTOES</a>
 									</li>
-									<li class="menu-item-has-children">
+									<li class="<?php if($page_name == 'workshop.php') { ?>current-menu-item <?php } ?> menu-item-has-children">
 										<a href="workshop.php">WORKSHOPS</a>
 										<!-- <ul class="sub-menu">
 											<li><a href="workshop-detail.html">workshop-detail</a></li>
 											<li><a href="highlights.html">highlights</a></li>
 										</ul> -->
 									</li>
-									<li class="menu-item-has-children">
+									<li class="<?php if($page_name == 'register.php') { ?>current-menu-item <?php } ?> menu-item-has-children">
 										<a href="register.php">REGISTER</a>
 									</li>
-									<li><a href="members.php">ABOUT DOHA</a></li>
-									<li class="menu-item-has-children">
+									<li class="<?php if($page_name == 'members.php') { ?>current-menu-item <?php } ?> menu-item-has-children"><a href="members.php">ABOUT DOHA</a></li>
+									<li class="<?php if($page_name == 'contact.php') { ?>current-menu-item <?php } ?> menu-item-has-children">
 										<a href="contact.php">CONTACT US</a>
 									</li>
 								</ul>
