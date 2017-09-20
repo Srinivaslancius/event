@@ -7,6 +7,10 @@
  		<link rel="shortcut icon" href="images/favicon.png"/>
 		<title>Home | WeMusic - Music Band Event</title>
 
+		
+		<link rel='stylesheet' href='css/datepicker.css' type='text/css' media='all'/>
+		<link rel='stylesheet' href='css/tribe-events.css' type='text/css' media='all'/>
+		<link rel='stylesheet' href='css/tribe-events-pro-theme.css' type='text/css' media='all'/>
 		<link rel='stylesheet' href='css/bootstrap.min.css' type='text/css' media='all'/>
 		<link rel='stylesheet' href='css/settings.css' type='text/css' media='all'/>
 		<link rel='stylesheet' href='css/widget-calendar-full.css' type='text/css' media='all'/>
@@ -72,21 +76,21 @@
 								<ul class="navbar-nav sf-menu">
 									<li class="current-menu-item menu-item-has-children">
 										<a href="index.html">Home</a>
-										<ul class="sub-menu">
+										<!-- <ul class="sub-menu">
 											<li><a href="index-video.html">Home video</a></li>
 											<li><a href="index-parallax.html">Home Parallax</a></li>
 											<li><a href="index-revolution.html">Home Revolution</a></li>
-										</ul>
+										</ul> -->
 									</li>
 									<li class="menu-item-has-children">
 										<a href="maesteos.html">MAESTOES</a>
 									</li>
 									<li class="menu-item-has-children">
 										<a href="workshop.html">WORKSHOPS</a>
-										<ul class="sub-menu">
+										<!-- <ul class="sub-menu">
 											<li><a href="workshop-detail.html">workshop-detail</a></li>
 											<li><a href="highlights.html">highlights</a></li>
-										</ul>
+										</ul> -->
 									</li>
 									<li class="menu-item-has-children">
 										<a href="register.html">REGISTER</a>

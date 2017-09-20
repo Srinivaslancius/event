@@ -347,6 +347,8 @@
 		<script type='text/javascript' src='js/jquery.countdown.min.js'></script>
 		<script type='text/javascript' src='js/jquery.parallax.js'></script>
 		<script type='text/javascript' src='js/owl.carousel.min.js'></script>
+		<script type='text/javascript' src='js/bootstrap-datepicker.min.js'></script>
+		<script type='text/javascript' src='js/nivo-lightbox.min.js'></script>
 
 		<script type="text/javascript">
             var $height_w   = jQuery(window).height();
