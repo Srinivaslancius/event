@@ -75,7 +75,7 @@
 							<nav class="collapse navbar-collapse noo-navbar-collapse">
 								<ul class="navbar-nav sf-menu">
 									<li class="current-menu-item menu-item-has-children">
-										<a href="index.html">Home</a>
+										<a href="index.php">Home</a>
 										<!-- <ul class="sub-menu">
 											<li><a href="index-video.html">Home video</a></li>
 											<li><a href="index-parallax.html">Home Parallax</a></li>
@@ -83,21 +83,21 @@
 										</ul> -->
 									</li>
 									<li class="menu-item-has-children">
-										<a href="maesteos.html">MAESTOES</a>
+										<a href="maesteos.php">MAESTOES</a>
 									</li>
 									<li class="menu-item-has-children">
-										<a href="workshop.html">WORKSHOPS</a>
+										<a href="workshop.php">WORKSHOPS</a>
 										<!-- <ul class="sub-menu">
 											<li><a href="workshop-detail.html">workshop-detail</a></li>
 											<li><a href="highlights.html">highlights</a></li>
 										</ul> -->
 									</li>
 									<li class="menu-item-has-children">
-										<a href="register.html">REGISTER</a>
+										<a href="register.php">REGISTER</a>
 									</li>
-									<li><a href="members.html">ABOUT DOHA</a></li>
+									<li><a href="members.php">ABOUT DOHA</a></li>
 									<li class="menu-item-has-children">
-										<a href="contact.html">CONTACT US</a>
+										<a href="contact.php">CONTACT US</a>
 									</li>
 								</ul>
 							</nav>  
