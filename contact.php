@@ -25,30 +25,8 @@
 							<div class="row row-fluid">
 								<div class="nocontainer contact-content">
 									<div class="col-sm-6">
-										<form class="form">
-											<div class="form-control-wrap">
-												<select name="event" class="fs2">
-													<option class="item-first" value="">Selects Events</option>
-													<option value="">Fiddler&#8217;s Green Amphitheatre</option>
-													<option value="">Editions in the gallery cafe</option>
-													<option value="">Ultra Music Festival</option>
-													<option value="">The Gorge Amphitheater</option>
-												</select>
-											</div>
-											<div class="form-control-wrap">
-												<input type="email" name="email" value="" size="40" class="form-control text email" placeholder="Email"/>
-											</div>
-											<div class="form-control-wrap">
-												<input type="text" name="subject" value="" size="40" class="form-control text" placeholder="Subject"/>
-											</div>
-											<div class="form-control-wrap">
-												<textarea name="message" cols="40" rows="10" class="form-control textarea" placeholder="Message"></textarea>
-											</div>
-											<div class="form-control-wrap">
-												<input type="submit" value="Send" class="form-control submit"/>
-											</div>
-										</form>
-									</div>
+										<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d81606.32345716363!2d51.455826758478224!3d25.3201904109818!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e45c4b743d6fb7d%3A0xa10f47c0a413ad2!2sInterContinental+Doha+-+The+City!5e0!3m2!1sen!2sin!4v1505914966727" width="100%" height="500px" frameborder="0" style="border:0" allowfullscreen></iframe>
+									</div> 
 									<div class="col-sm-6">
 										<ul class="contact-info">
 											<li>
@@ -79,6 +57,12 @@
 				</div> 
 			</div>
 			 
-		</div>  
+		</div> 
 		
+
+
 <?php include_once "footer.php";?>
+
+
+
+style="width:100%;height:500px"
