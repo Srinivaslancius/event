@@ -59,7 +59,7 @@
 									<i class="fa fa-bars"></i>
 								</a>
 								<a href="index.php" class="navbar-brand">
-									<img class="noo-logo-img noo-logo-normal" src="images/logo.png" alt="">
+								 	<img class="noo-logo-img noo-logo-normal" src="images/logo.png" alt="">
 									<img class="noo-logo-img noo-logo-floating" src="images/logo.png" alt="">
 								</a>
 							</div>  
