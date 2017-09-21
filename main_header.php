@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en-US">
+<html lang="en-US" style="overflow-x:hidden;">
 
 <head>
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
@@ -28,7 +28,7 @@
 		<link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Dosis:100,300,400,700,900,300italic,400italic,700italic,900italic' type='text/css' media='all'/>
 		
 	</head>
-	<body class="page-menu-transparent theme-light">
+	<body class="page-menu-transparent theme-light" style="padding-bottom:0px;">
 		<!--preloader-->
         <div id="loading">
 			<div id="loading-center">
@@ -58,9 +58,6 @@
 									<span class="sr-only">Navigation</span>
 									<i class="fa fa-bars"></i>
 								</a>
-								<a href="#" class="mobile-minicart-icon">
-									<i class="fa fa-shopping-cart"></i><span>0</span>
-								</a>
 								<a href="index.php" class="navbar-brand">
 									<img class="noo-logo-img noo-logo-normal" src="images/logo.png" alt="">
 									<img class="noo-logo-img noo-logo-floating" src="images/logo.png" alt="">
@@ -83,7 +80,7 @@
 										</ul> -->
 									</li>
 									<li class="<?php if($page_name == 'maesteos.php') { ?>current-menu-item <?php } ?> menu-item-has-children">
-										<a href="maesteos.php">MAESTOES</a>
+										<a href="maesteos.php">MAESTEOS</a>
 									</li>
 									<li class="<?php if($page_name == 'workshop.php') { ?>current-menu-item <?php } ?> menu-item-has-children">
 										<a href="workshop.php">WORKSHOPS</a>
@@ -95,7 +92,7 @@
 									<li class="<?php if($page_name == 'register.php') { ?>current-menu-item <?php } ?> menu-item-has-children">
 										<a href="register.php">REGISTER</a>
 									</li>
-									<li class="<?php if($page_name == 'members.php') { ?>current-menu-item <?php } ?> menu-item-has-children"><a href="members.php">ABOUT DOHA</a></li>
+									<li class="<?php if($page_name == 'about_doha.php') { ?>current-menu-item <?php } ?> menu-item-has-children"><a href="about_doha.php">ABOUT DOHA</a></li>
 									<li class="<?php if($page_name == 'contact.php') { ?>current-menu-item <?php } ?> menu-item-has-children">
 										<a href="contact.php">CONTACT US</a>
 									</li>

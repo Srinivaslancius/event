@@ -8,53 +8,14 @@
 									<h4 class="widget-title">About Us</h4>
 									<div class="textwidget">
 										<p>
-											WeMusic was built for Music Band Event with selling ticket service directly on site. Quick way to popularize your events and make it more professional towards thousands of audiences.
+											Capital and largest city of Qatar.Situated almost midway down the east coast of the Qatari peninsula, Doha is the country's center of administration,finance, culture, transportation, and social services.
 										</p>
 										<p>
-											With responsive layout and advanced function, all information is processed smoothly and designed to enhance event's ticket shopping experiences.
+											The modern city grew from the fishing and pearling port of al-Bida, which at the end of the nineteenth century had around 12,000 inhabitants.The town's economy depended to a large extent on pearling, and the busy port had some 300 pearling ships in 1939, just before the industry collapsed.
 										</p>
 									</div>
 								</div>
 							</div>
-
-
-							<!-- <div class="col-md-3 col-sm-6">
-								<div class="widget commerce widget_top_rated_products">
-									<h4 class="widget-title">Top Rated Products</h4>
-									<ul class="product_list_widget">
-										<li>
-											<a href="#">
-												<img width="100" height="100" src="images/album/rock9.jpg" alt="rock9"/>
-												<span class="product-title">Robinson Party</span>
-											</a>
-											<div class="star-rating">
-												<span style="width:100%"></span>
-											</div>
-											<span class="amount">&pound;30.00</span>
-										</li>
-										<li>
-											<a href="#">
-												<img width="100" height="100" src="images/album/rock13.jpg" alt="rock13"/>
-												<span class="product-title">Awesome Bass</span>
-											</a>
-											<div class="star-rating">
-												<span style="width:80%"></span>
-											</div>
-											<span class="amount">&pound;3,999.00</span>
-										</li>
-										<li>
-											<a href="#">
-												<img width="100" height="100" src="images/album/rock7.jpg" alt="rock7"/>
-												<span class="product-title">My life</span>
-											</a>
-											<div class="star-rating">
-												<span style="width:80%"></span>
-											</div>
-											<span class="amount">&pound;55.00</span>
-										</li>
-									</ul>
-								</div>
-							</div> -->
 							<div class="col-md-4 col-sm-6">
 								<div class="widget tribe-events-adv-list-widget">
 									<h4 class="widget-title">Upcoming Events</h4>
@@ -127,11 +88,11 @@
 								<ul class="noo-infomation">
 									<li>
 										<span class="fa fa-map-marker infomation-left"></span>
-										<address>South Avenue a 34521 New York, USA </address>
+										<address>Off Al Wahda Road, West Bay PO Box 22178 | Doha, Qatar  </address>
 									</li>
 									<li class="info-phone">
 										<span class="fa fa-phone infomation-left"></span>
-										<span>+84 123 456 789</span>
+										<span>+974 4015 8888</span>
 									</li>
 									<li class="info-mail">
 										<span class="fa fa-envelope-o infomation-left"></span>
@@ -142,41 +103,23 @@
 							<div class="widget widget_noo_social">
 								<div class="noo_social">
 									<div class="social-all">
-										<span class="footer-social">
+										<span class="footer-social" >
 											<span class="social-name">
 												Follow on facebook
 											</span>
-											<a href="#" class="fa fa-facebook"></a>
-										</span>
-										<span class="footer-social">
-											<span class="social-name">
-												Follow on google-plus
-											</span>
-											<a href="#" class="fa fa-google-plus"></a>
+											<a href="https://www.facebook.com/InterContinental.AMEA/?brand_redir=90015535776" class="fa fa-facebook" target="_blank"></a>
 										</span>
 										<span class="footer-social">
 											<span class="social-name">
 												Follow on twitter
 											</span>
-											<a href="#" class="fa fa-twitter"></a>
+											<a href="https://twitter.com/interconhotels" class="fa fa-twitter" target="blank"></a>
 										</span>
 										<span class="footer-social">
 											<span class="social-name">
-												Follow on youtube
+												Follow on instagram
 											</span>
-											<a href="#" class="fa fa-youtube"></a>
-										</span>
-										<span class="footer-social">
-											<span class="social-name">
-												Follow on skype
-											</span>
-											<a href="#" class="fa fa-skype"></a>
-										</span>
-										<span class="footer-social">
-											<span class="social-name">
-												Follow on linkedin
-											</span>
-											<a href="#" class="fa fa-linkedin"></a>
+											<a href="https://www.instagram.com/intercontinental/" class="fa fa-instagram" target="blank"></a>
 										</span>
 									</div>
 								</div>
