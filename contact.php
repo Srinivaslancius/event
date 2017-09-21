@@ -43,7 +43,7 @@
 											<li>
 												<span class="contact-title">EMAIL</span>
 												<i class="fa fa-envelope-o"></i>
-												<a href="mailto:email@domain.com">email@domain.com</a>
+												<a href="#">tangoclubqatar@gmail.com</a>
 											</li>
 											<li>
 												<span class="contact-title">FAX</span>
