@@ -2,8 +2,8 @@
 				<div class="colophon wigetized">
 					<div class="background-footer"></div>
 					<div class="container">
-						<div class="row noo-footer-main">
-							<div class="col-md-4 col-sm-6">
+						<!-- <div class="row noo-footer-main"> -->
+							<!-- <div class="col-md-4 col-sm-6">
 								<div class="widget widget_text">
 									<h4 class="widget-title">About Us</h4>
 									<div class="textwidget">
@@ -15,8 +15,8 @@
 										</p>
 									</div>
 								</div>
-							</div>
-							<div class="col-md-4 col-sm-6">
+							</div> -->
+							<!-- <div class="col-md-4 col-sm-6">
 								<div class="widget tribe-events-adv-list-widget">
 									<h4 class="widget-title">Upcoming Events</h4>
 									<div class="tribe-mini-calendar-event">
@@ -68,8 +68,8 @@
 										</div>  
 									</div>
 								</div>
-							</div>
-							<div class="col-md-4 col-sm-6">
+							</div> -->
+							<!-- <div class="col-md-4 col-sm-6">
 								<div class="widget mailchimp-widget">
 									<h4 class="widget-title">Subscribe</h4>
 									<form class="mc-subscribe-form">
@@ -81,8 +81,8 @@
 										<button disabled>Subscribe now</button>
 									</form>
 								</div>
-							</div>
-						</div>  
+							</div> -->
+						<!-- </div> -->  
 						<div class="noo-footer-bottom">
 							<div class="widget widget_noo_infomation">
 								<ul class="noo-infomation">

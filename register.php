@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en-US">
+<html lang="en-US" style="overflow-x:hidden;">
 	
 <!-- Mirrored from tk-themes.net/html-wemusic/light/my-account.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 31 Aug 2017 10:03:30 GMT -->
 <head>
@@ -30,7 +30,7 @@
             <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
         <![endif]-->
 	</head>
-	<body class="commerce-account theme-light">
+	<body class="commerce-account theme-light" style="padding-bottom:0px;">
 		<!--preloader-->
         <div id="loading">
 			<div id="loading-center">
@@ -97,7 +97,7 @@
 									<li class="<?php if($page_name == 'register.php') { ?>current-menu-item <?php } ?> menu-item-has-children">
 										<a href="register.php">REGISTER</a>
 									</li>
-									<li class="<?php if($page_name == 'members.php') { ?>current-menu-item <?php } ?> menu-item-has-children"><a href="members.php">ABOUT DOHA</a></li>
+									<li class="<?php if($page_name == 'about_doha.php') { ?>current-menu-item <?php } ?> menu-item-has-children"><a href="about_doha.php">ABOUT DOHA</a></li>
 									<li class="<?php if($page_name == 'contact.php') { ?>current-menu-item <?php } ?> menu-item-has-children">
 										<a href="contact.php">CONTACT US</a>
 									</li>
@@ -174,9 +174,7 @@
 					</div> 
 				</div> 
 			</div>
-<<<<<<< HEAD
 		</div>  
 		<?php include_once "footer.php";?>
-=======
-			<?php include_once "footer.php";?>
->>>>>>> b3f1bedaaaef81831dc94501b60e60cf3c15b9c7
+
+
