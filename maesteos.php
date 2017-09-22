@@ -22,7 +22,7 @@
 													<div class="container">
 							
 														<ul class="noo_news_blog">
-															<li class="<?php if($page_name == 'maesteos.php') { ?>current-menu-item <?php } ?> menu-item-has-children">
+															<li>
 																<div class="noo-sh-thumbail">
 																	<div class="shthumbail">
 																		<img width="600" height="450" src="images/blog/img4.jpg" alt="blog14"/>
