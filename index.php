@@ -175,7 +175,7 @@
 													<span class="entry-date">
 														4<span class="month">Nov</span>
 													</span>
-													<div class="noo-thumbnail thumb-1"></div>
+													<div class="noo-thumbnail thumb-3"></div>
 													<div class="noo-shevent-content" style="padding-top:20px">
 														
 														<div class="sh-meta">
