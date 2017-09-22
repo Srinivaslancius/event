@@ -3,7 +3,7 @@
 				<div class="container">
 					<div class="noo-page-breadcrumb">
 						<div class="breadcrumb-wrap">
- 							<span><a href="#" class="home">Home</a></span><i>&#047;</i> <span><span>About Doha</span></span>
+ 							<span><a href="#" class="home">Home</a></span><i>&#047;</i> <span><span>register</span></span>
  						</div>
 					</div>
 				</div> 
@@ -13,14 +13,14 @@
 					<div class="container">
 						<div class="row">			
 								<div class="noo-shortcode-events">
-								<h2 class="sh-event-title">ABOUT <span>DOHA</span></h2>
+								<h2 class="sh-event-title">register</h2>
 									<div class="container-wrap">
 				<div class="container">
 					<div class="row">
 						<div class="noo-main col-md-12">
  							<div class="commerce">
 								<div class="col2-set" id="customer_login">
-									<div class="col-1">
+									<!-- <div class="col-1">
 										<h2>Login</h2>
 										<form class="login">
 											<div class="form-row">
@@ -45,7 +45,7 @@
 												<a href="#">Lost your password?</a>
 											</div>
 										</form>
-									</div>
+									</div> -->
 									<div class="col-2">
 										<h2>Register</h2>
 										<form class="register">
@@ -62,7 +62,7 @@
 												<input type="password" class="input-text" name="password" id="reg_password"/>
 											</div>
 											<div class="form-row">
-												<input type="submit" class="button" name="register" value="Register"/>
+												<input type="submit" class="button" name="register" value="Register" style="background-color:#d91f26" />
 											</div>
 										</form>
 									</div>
