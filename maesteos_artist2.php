@@ -25,7 +25,7 @@
 										<li>
 											<div class="noo-sh-thumbail">
 												<div class="shthumbail">
-													<img width="600" height="450" src="images/blog/Alejandro & Fernanda.jpg" alt="blog14"/>
+													<img width="600" height="450" src="images/blog/img1.jpg" alt="blog14"/>
 												</div>
 											</div>
 											<div class="noo-sh-blog-content">
