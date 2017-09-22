@@ -79,7 +79,7 @@
 											<li><a href="index-revolution.html">Home Revolution</a></li>
 										</ul> -->
 									</li>
-									<li class="<?php if($page_name == 'maesteos.php') { ?>current-menu-item <?php } ?> menu-item-has-children">
+									<li class="<?php if($page_name == 'maesteos.php' || $page_name == 'maesteos_artist1.php' || $page_name == 'maesteos_artist2.php' || $page_name == 'maesteos_artist3.php' || $page_name == 'maesteos_artist4.php') { ?>current-menu-item <?php } ?> menu-item-has-children">
 										<a href="maesteos.php">MAESTEOS</a>
 									</li>
 									<li class="<?php if($page_name == 'workshop.php') { ?>current-menu-item <?php } ?> menu-item-has-children">

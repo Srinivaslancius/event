@@ -41,8 +41,8 @@
 														1<span class="month">Nov</span>
 													</span>
 													<div class="noo-thumbnail thumb-1"></div>
-													<div class="noo-shevent-content">
-														<h4></h4>
+													<div class="noo-shevent-content" style="padding-top:20px">
+													
 														<div class="sh-meta">
 															<span class="sh-date">
 																<i class="fa fa-clock-o"></i>
@@ -75,7 +75,7 @@
 																</span>
 															</span>
 														</div>
-														<div class="sh-excerpt">
+														<div class="sh-excerpt" style="padding-bottom:20px">
 															<p>
 															The Basics of TangoPosture, Embrace, Walk, Balance Gustavo & Gabriela Beginners Level
 															</p>
@@ -88,8 +88,7 @@
 														2<span class="month">Nov</span>
 													</span>
 													<div class="noo-thumbnail thumb-2"></div>
-													<div class="noo-shevent-content">
-														<h4></h4>
+													<div class="noo-shevent-content" style="padding-top:20px">
 														<div class="sh-meta">
 															<span class="sh-date">
 																<i class="fa fa-clock-o"></i>
@@ -120,7 +119,7 @@
 																</span>
 															</span>
 														</div>
-														<div class="sh-excerpt">
+														<div class="sh-excerpt" style="padding-bottom:20px">
 															<p>Beginners Leval 2 Gustavo & Gabriala Beginners Level
 															</p>
 														</div>
@@ -131,8 +130,8 @@
 														3<span class="month">Nov</span>
 													</span>
 													<div class="noo-thumbnail thumb-1"></div>
-													<div class="noo-shevent-content">
-														<h4></h4>
+													<div class="noo-shevent-content" style="padding-top:20px">
+														
 														<div class="sh-meta">
 															<span class="sh-date">
 																<i class="fa fa-clock-o"></i>
@@ -165,7 +164,7 @@
 																</span>
 															</span>
 														</div>
-														<div class="sh-excerpt">
+														<div class="sh-excerpt" style="padding-bottom:20px">
 															<p>
 															Milonga Different combinations for improvisation playing with the rhythm. Marcelo & Selva Intermediate Level
 															</p>
@@ -177,8 +176,8 @@
 														4<span class="month">Nov</span>
 													</span>
 													<div class="noo-thumbnail thumb-1"></div>
-													<div class="noo-shevent-content">
-														<h4></h4>
+													<div class="noo-shevent-content" style="padding-top:20px">
+														
 														<div class="sh-meta">
 															<span class="sh-date">
 																<i class="fa fa-clock-o"></i>
@@ -212,7 +211,7 @@
 																</span>
 															</span>
 														</div>
-														<div class="sh-excerpt">
+														<div class="sh-excerpt" style="padding-bottom:20px">
 															<p>
 															Movements In turn with sacadas in Vals Marcelo & Selva Intermediate Level
 															</p>
