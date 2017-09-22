@@ -96,7 +96,7 @@
 									</li>
 									<li class="info-mail">
 										<span class="fa fa-envelope-o infomation-left"></span>
-										<span><a href="mailto:email@domain.com">email@domain.com</a></span>
+										<span>tangoclubqatar@gmail.com</span>
 									</li>
 								</ul>
 							</div>
