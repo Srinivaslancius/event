@@ -20,33 +20,9 @@
 						<div class="noo-main col-md-12">
  							<div class="commerce">
 								<div class="col2-set" id="customer_login">
-									<!-- <div class="col-1">
-										<h2>Login</h2>
-										<form class="login">
-											<div class="form-row">
-												<label for="username">
-													Username or email address <span class="required">*</span>
-												</label>
-												<input type="text" class="input-text" name="username" id="username" value=""/>
-											</div>
-											<div class="form-row">
-												<label for="password">
-													Password <span class="required">*</span>
-												</label>
-												<input class="input-text" type="password" name="password" id="password"/>
-											</div>
-											<div class="form-row">
-												<input type="submit" class="button" name="login" value="Login"/>
-												<div class="inline">
-													<input name="rememberme" type="checkbox" id="rememberme"/> Remember me
-												</div>
-											</div>
-											<div class="lost_password">
-												<a href="#">Lost your password?</a>
-											</div>
-										</form>
-									</div> -->
-									<div class="col-2">
+									<div class="col-md-3">
+									</div>
+									<div class="col-md-6">
 										<h2>Register</h2>
 										<form class="register">
 											<div class="form-row">
@@ -65,6 +41,8 @@
 												<input type="submit" class="button" name="register" value="Register" style="background-color:#d91f26" />
 											</div>
 										</form>
+									</div>
+									<div class="col-md-3">
 									</div>
 								</div>
 							</div>
