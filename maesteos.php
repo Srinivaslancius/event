@@ -3,7 +3,7 @@
 				<div class="container">
 					<div class="noo-page-breadcrumb">
 						<div class="breadcrumb-wrap">
- 							<span><a href="#" class="home">Home</a></span><i>&#047;</i> <span><span>MAESTOES</span></span>
+ 							<span><a href="#" class="home">Home</a></span><i>&#047;</i> <span><span>MAESTRO</span></span>
  						</div>
 					</div>
 				</div> 
@@ -17,7 +17,7 @@
  								<div class="nocontainer">
 									<div class="col-sm-12">
 										<div class="noo_team">
-											<h2 class="noo-team-title">MAESTOES</h2>
+											<h2 class="noo-team-title">MAESTRO</h2>
 												<div class="row row-fluid home-news">
 													<div class="container">
 							
