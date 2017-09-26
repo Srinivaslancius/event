@@ -88,10 +88,10 @@
 																		<img width="600" height="450" src="images/blog/img2.jpg" alt="blog12"/>
 																	</div>
 																</div>
-																<div class="noo-sh-blog-content">
+																<!-- <div class="noo-sh-blog-content">
 																	<object class="embed-responsive-item"><iframe width="854" height="320" src="https://www.youtube.com/embed/Bi2sIsX_aX8" frameborder="0" allowfullscreen></iframe>
 																</object>
-																</div>
+																</div> -->
 																<div class="noo-sh-blog-content" style="width:100%">
 																	 <h3><a href="#">DJ</a></h3> 
 																	<p style="text-align:justify">
