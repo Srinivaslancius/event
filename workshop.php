@@ -1,5 +1,46 @@
 <?php include_once "main_header.php"; ?>
+	<style>
+		.shedule-time{
+			padding-top: 86px;
+    		padding-bottom: 50px;
+		    background-color: #b1a3a3;
+		    color: #ffffff;
+		    font-size: 25px;
+		}
+		.shedule-time1{
+			padding-top: 69px;
+    		padding-bottom: 109px;
+		    background-color: #b1a3a3;
+		    color: #ffffff;
+		    font-size: 25px;
+		}
+		.shedule-text{
+			padding-top: 60px;
+		    padding-bottom: 76px;
+		    font-style: italic;
+    		font-family: initial;
+		    color: #ffffff;
+		    font-size: 25px;
+		    word-wrap: break-word;
+		}
+		.shedule-text-thursday{
+			padding-top: 72px;
+    		padding-bottom: 106px;
+		    font-style: italic;
+    		font-family: initial;
+		    color: #ffffff;
+		    font-size: 25px;
+		    word-wrap: break-word;		
+		}
+		.shedule-time-thursday{
+			padding-top: 89px;
+    		padding-bottom: 89px;
+		    background-color: #b1a3a3;
+		    color: #ffffff;
+		    font-size: 25px;
+		}
 
+	</style>
 			<div class="noo-page-heading">
 				<div class="container">
 					<div class="noo-page-breadcrumb">
@@ -24,361 +65,151 @@
 							
 														<ul class="noo_news_blog">
 															<li>
-																<div class="noo-sh-thumbail">
-																	<div class="shthumbail">
-																		<img width="600" height="450" src="images/blog/img4.jpg" alt="blog14"/>
+																<div class ="col-sm-12">
+																		<h1 style="text-align: center;">Wednesday-1 Nov 2017</h1>
+																</div>
+																<div>
+																	<div class="shedule-time col-sm-3">
+																		<span>8.00- 8.45 PM</span>
+																	</div>
+																	<div class="shedule-text col-sm-9" style="background-color: #6358f5;">
+																		<span>Chacarera with Marcelo & Selva Free Entrance for All</span>
 																	</div>
 																</div>
-																<div class="noo-sh-blog-content" style="padding-left:0px">
-																	<div class="noo-sh-list-event" style="background-color:white;padding-left:0px">
-																		<div class="noo-shevent-content" style="padding-left:0px">
-																			<div class="sh-meta">
-																				<span class="sh-date">
-																					<i class="fa fa-clock-o"></i>
-																					<span class="date-start dtstart">
-																						November 1-2017
-																					</span>
-																					-
-																					<span class="date-end dtend">
-																						(8.00- 9.15 PM)
-																					</span>
-
-																				</span>
-																			</div>
-																			<div class="sh-excerpt">
-																				<p>
-																				Chacarera with Marcelo & Selva Free Entrance for All
-																				</p>
-																			</div>
-																			<div class="sh-meta">
-																				<span class="sh-date">
-																					<i class="fa fa-clock-o"></i>
-																					<span class="date-start dtstart">
-																						November 1-2017
-																					</span>
-																					-
-																					<span class="date-end dtend">
-																						(9.30 - 10.45 PM)
-																					</span>
-																				</span>
-																			</div>
-																			<div class="sh-excerpt">
-																				<p>
-																				The Basics of TangoPosture, Embrace, Walk, Balance Gustavo & Gabriela Beginners Level
-																				</p>
-																			</div>
-																		</div>
+																<div>
+																	<div class="shedule-time1 col-sm-3">
+																		<span>9.00 - 10.15 PM</span>
+																	</div>
+																	<div class="shedule-text col-sm-9" style="background-color: #f761c7;">
+																		<span>The Basics of TangoPosture, Embrace, Walk, Balance Gustavo & Gabriela Beginners Level</span>
 																	</div>
 																</div>
 															</li>
 															<li>
-																<div class="noo-sh-thumbail">
-																	<div class="shthumbail">
-																		<img width="600" height="450" src="images/blog/img1.jpg" alt="blog24"/>
+																<div class ="col-sm-12">
+																		<h1 style="text-align: center;">Thursday - 2 Nov -2017</h1>
+																</div>
+																<div>
+																	<div class="shedule-time-thursday shedule-time col-sm-3">
+																		<span>5.00-6.15 PM</span>
+																	</div>
+																	<div class="shedule-text col-sm-9" style="background-color: #6358f5;">
+																		<span>.Walking in cross system, change of direction and connection advice Alejandro & Fernanda Intermediate Level
+																		</span>
 																	</div>
 																</div>
-																<div class="noo-sh-blog-content" style="padding-left:0px">
-																	<div class="noo-sh-list-event" style="background-color:white;padding-left:0px">
-												
-												
-												
-																			<div class="noo-shevent-content" style="padding-left:0px">
-																				
-																				<div class="sh-meta">
-																					<span class="sh-date">
-																						<i class="fa fa-clock-o"></i>
-																						<span class="date-start dtstart">
-																							November 2-2017
-																						</span>
-																						-
-																						<span class="date-end dtend">
-																							(5.00-6.15 PM)
-																						</span>
-																					</span>
-																				</div>
-																				<div class="sh-excerpt">
-																					<p>Walking in cross system, change of direction and connection advice Alejandro & Fernanda Intermediate Level
-																					</p>
-																				</div>
-																			</div>
-																			<div class="noo-shevent-content" style="padding-left:0px">
-																				<div class="sh-meta">
-																					<span class="sh-date">
-																						<i class="fa fa-clock-o"></i>
-																						<span class="date-start dtstart">
-																							November 2-2017
-																						</span>
-																						-
-																						<span class="date-end dtend">
-																							(6.30-7.45 PM)
-																						</span>
-																					</span>
-																				</div>
-																				<div class="sh-excerpt">
-																					<p>Beginners Leval 2 Gustavo & Gabriala Beginners Level
-																					</p>
-																				</div>
-																			</div>
-																			<div class="noo-shevent-content" style="padding-left:0px">
-																				<div class="sh-meta">
-																					<span class="sh-date">
-																						<i class="fa fa-clock-o"></i>
-																						<span class="date-start dtstart">
-																							November 2-2017
-																						</span>
-																						-
-																						<span class="date-end dtend">
-																							(8.00-9.15 PM)
-																						</span>
-																					</span>
-																				</div>
-																				<div class="sh-excerpt">
-																					<p> Beginners Leval 2 Gustavo & Gabriala Beginners Level
-																					</p>
-																				</div>
-																			</div>
-																			<div class="noo-shevent-content" style="padding-left:0px">
-																				<div class="sh-meta">
-																					<span class="sh-date">
-																						<i class="fa fa-clock-o"></i>
-																						<span class="date-start dtstart">
-																							November 2-2017
-																						</span>
-																						-
-																						<span class="date-end dtend">
-																							(9.30-12.30 AM)
-																						</span>
-																					</span>
-																				</div>
-																				<div class="sh-excerpt">
-																					<p>MILONGA Intercontinental Doha The City
-																					</p>
-																				</div>
-																			</div>
+																<div>
+																	<div class="shedule-time1 col-sm-3">
+																		<span>6.30-7.45 PM</span>
+																	</div>
+																	<div class="shedule-text col-sm-9" style="background-color: #f761c7;">
+																		<span>Basic structures and development, applying elements (Ganchos, Boleos, Sacadas y Barridas). Marcelo & Selva Beginners & Intermediate Level</span>
+																	</div>
+																</div>
+																<div>
+																	<div class="shedule-time col-sm-3">
+																		<span>8.00-9.15 PM</span>
+																	</div>
+																	<div class="shedule-text col-sm-9" style="background-color: #6fa1f7;">
+																		<span>Beginners Leval 2 Gustavo & Gabriala Beginners Level</span>
+																	</div>
+																</div>
+																<div>
+																	<div class="shedule-time1 col-sm-3">
+																		<span>9.30-12.30 AM</span>
+																	</div>
+																	<div class="shedule-text-thursday col-sm-9" style="background-color: #f19d6f;">
+																		<span>MILONGA Intercontinental Doha The City</span>
 																	</div>
 																</div>
 															</li>
 															<li>
-																<div class="noo-sh-thumbail">
-																	<div class="shthumbail">
-																		<img width="600" height="450" src="images/blog/img3.jpg" alt="blog12"/>
+																<div class ="col-sm-12">
+																		<h1 style="text-align: center;">Friday - 3 Nov -2017</h1>
+																</div>
+																<div>
+																	<div class="shedule-time-thursday col-sm-3">
+																		<span>10.00-11.15 AM</span>
+																	</div>
+																	<div class="shedule-text col-sm-9" style="background-color: #6358f5;">
+																		<span>Tango Vals - change of dynamic (using the flow) and musicality Alejandro & Fernanda Intermediate Level</span>
 																	</div>
 																</div>
-																<div class="noo-sh-blog-content" style="padding-left:0px">
-																	
-																	<div class="noo-sh-list-event" style="background-color:white;padding-left:0px">
-												
-																		<div class="noo-shevent-content" style="padding-left:0px">
-													
-																			<div class="sh-meta">
-																				<span class="sh-date">
-																					<i class="fa fa-clock-o"></i>
-																					<span class="date-start dtstart">
-																						November 3-2017
-																					</span>
-																					-
-																					<span class="date-end dtend">
-																						(10.00-11.15 AM)
-																					</span>
-
-																				</span>
-																			</div>
-																			<div class="sh-excerpt">
-																				<p>
-																				Tango Vals - change of dynamic (using the flow) and musicality Alejandro & Fernanda Intermediate Level
-																				</p>
-																			</div>
-																		</div>
-																		<div class="noo-shevent-content" style="padding-left:0px">
-																			<div class="sh-meta">
-																				<span class="sh-date">
-																					<i class="fa fa-clock-o"></i>
-																					<span class="date-start dtstart">
-																						November 3-2017
-																					</span>
-																					-
-																					<span class="date-end dtend">
-																						(11.30-12.45 PM)
-																					</span>
-																				</span>
-																			</div>
-																			<div class="sh-excerpt">
-																				<p>
-																				Milonga Different combinations for improvisation playing with the rhythm. Marcelo & Selva Intermediate Level
-																				</p>
-																			</div>
-																		</div>
-																		<div class="noo-shevent-content" style="padding-left:0px">
-																			<div class="sh-meta">
-																				<span class="sh-date">
-																					<i class="fa fa-clock-o"></i>
-																					<span class="date-start dtstart">
-																						November 3-2017
-																					</span>
-																					-
-																					<span class="date-end dtend">
-																						(1.30-2.45 PM)
-																					</span>
-																				</span>
-																			</div>
-																			<div class="sh-excerpt">
-																				<p>
-																				Technical Giro, sacadas all possibilities and different combinations.Gustavo  & Gabriala Intermediate Level
-																				</p>
-																			</div>
-																		</div>
-																		<div class="noo-shevent-content" style="padding-left:0px">
-																			<div class="sh-meta">
-																				<span class="sh-date">
-																					<i class="fa fa-clock-o"></i>
-																					<span class="date-start dtstart">
-																						November 3-2017
-																					</span>
-																					-
-																					<span class="date-end dtend">
-																						(3.00-4.15 PM)
-																					</span>
-																				</span>
-																			</div>
-																			<div class="sh-excerpt">
-																				<p>
-																				Rhythmic circular movements for Vals Marcelo & Selva                                                                     Intermediate Level
-																				</p>
-																			</div>
-																		</div>
-																		<div class="noo-shevent-content" style="padding-left:0px">
-																			<div class="sh-meta">
-																				<span class="sh-date">
-																					<i class="fa fa-clock-o"></i>
-																					<span class="date-start dtstart">
-																						November 3-2017
-																					</span>
-																					-
-																					<span class="date-end dtend">
-																						(8.00 PM - 01.00 AM)
-																					</span>
-																				</span>
-																			</div>
-																			<div class="sh-excerpt">
-																				<p>
-																				Festival Night Gala Dinner & Tango Shows Followed by Milonga DJ – Ala Melisa
-																				</p>
-																			</div>
-																		</div>
+																<div>
+																	<div class="shedule-time1 col-sm-3">
+																		<span>11.30-12.45 PM</span>
 																	</div>
-											
+																	<div class="shedule-text col-sm-9" style="background-color: #f761c7;">
+																		<span>Milonga Different combinations for improvisation playing with the rhythm. Marcelo & Selva Intermediate Level</span>
+																	</div>
+																</div>
+																<div>
+																	<div class="shedule-time1 col-sm-3">
+																		<span>1.30-2.45 PM</span>
+																	</div>
+																	<div class="shedule-text col-sm-9" style="background-color: #6fa1f7;">
+																		<span>Technical Giro, sacadas all possibilities and different combinations. Gustavo & Gabriala Intermediate Level</span>
+																	</div>
+																</div>
+																<div>
+																	<div class="shedule-time col-sm-3">
+																		<span>3.00-4.15 PM</span>
+																	</div>
+																	<div class="shedule-text col-sm-9" style="background-color: #f19d6f;">
+																		<span>Rhythmic circular movements for Vals Marcelo & Selva Intermediate Level</span>
+																	</div>
+																</div>
+																<div>
+																	<div class="shedule-time col-sm-3">
+																		<span>8.00 PM - 01.00 AM</span>
+																	</div>
+																	<div class="shedule-text col-sm-9" style="background-color: #6358f5;">
+																		<span>Festival Night Gala Dinner & Tango Shows Followed by Milonga</span>
+																	</div>
 																</div>
 															</li>
 															<li>
-																<div class="noo-sh-thumbail">
-																	<div class="shthumbail">
-																		<img width="600" height="450" src="images/blog/img4.jpg" alt="blog12"/>
+																<div class ="col-sm-12">
+																		<h1 style="text-align: center;">Saturday - 4 Nov -2017</h1>
+																</div>
+																<div>
+																	<div class="shedule-time-thursday col-sm-3">
+																		<span>10.00-11.15 AM</span>
+																	</div>
+																	<div class="shedule-text col-sm-9" style="background-color: #6358f5;">
+																		<span>.Circular movements, giros, enrosques and lápices without loosing the couple connection. Alejandro & Fernanda,Intermediate Level</span>
 																	</div>
 																</div>
-																
-																<div class="noo-sh-blog-content" style=" background-color:white;padding-left:0px">
-																		
-																	<div class="noo-sh-list-event" style="background-color:white; padding-left:0px">
-												
-																		<div class="noo-shevent-content" style="padding-left:0px">
-														
-																			<div class="sh-meta">
-																				<span class="sh-date">
-																					<i class="fa fa-clock-o"></i>
-																					<span class="date-start dtstart">
-																						November 4-2017
-																					</span>
-																					-
-																					<span class="date-end dtend">
-																						(10.00-11.15 AM)
-																					</span>
-
-																				</span>
-																				
-																			</div>
-																			<div class="sh-excerpt">
-																				<p>
-																				Circular movements, giros, enrosques and lápices without loosing the couple connection. Alejandro & Fernanda,Intermediate Level
-																				</p>
-																			</div>
-																		</div>
-																		<div class="noo-shevent-content" style="padding-left:0px">
-																			<div class="sh-meta">
-																				<span class="sh-date">
-																					<i class="fa fa-clock-o"></i>
-																					<span class="date-start dtstart">
-																						November 4-2017
-																					</span>
-																					-
-																					<span class="date-end dtend">
-																						(11.30-12.45 PM)
-																					</span>
-																				</span>
-																			</div>
-																			<div class="sh-excerpt">
-																				<p>
-																				Movements In turn with sacadas in Vals Marcelo & Selva Intermediate Level
-																				</p>
-																			</div>
-																		</div>
-																		<div class="noo-shevent-content" style="padding-left:0px">
-																			<div class="sh-meta">
-																				<span class="sh-date">
-																					<i class="fa fa-clock-o"></i>
-																					<span class="date-start dtstart">
-																						November 4-2017
-																					</span>
-																					-
-																					<span class="date-end dtend">
-																						(1.30-2.45 PM)
-																					</span>
-																				</span>
-																			</div>
-																			<div class="sh-excerpt">
-																				<p>
-																				Musicality Gustavo  & Gabriala,All Levels
-																				</p>
-																			</div>
-																		</div>
-																		<div class="noo-shevent-content" style="padding-left:0px"> 
-																			<div class="sh-meta">
-																				<span class="sh-date">
-																					<i class="fa fa-clock-o"></i>
-																					<span class="date-start dtstart">
-																						November 4-2017
-																					</span>
-																					-
-																					<span class="date-end dtend">
-																						(3.00-4.15 PM)
-																					</span>
-																				</span>
-																			</div>
-																			<div class="sh-excerpt">
-																				<p>
-																				Tango fantasía challenging movements Alejandro & Fernanda Intermediate & Advanced
-																				</p>
-																			</div>
-																		</div>
-																		<div class="noo-shevent-content" style="padding-left:0px">
-																			<div class="sh-meta">
-																				<span class="sh-date">
-																					<i class="fa fa-clock-o"></i>
-																					<span class="date-start dtstart">
-																						November 4-2017
-																					</span>
-																					-
-																					<span class="date-end dtend">
-																						(7.00 PM - 11.00 AM)
-																					</span>
-																				</span>
-																			</div>
-																			<div class="sh-excerpt">
-																				<p>
-																				MILONGA Al Jawhara Ballroom – Intercontinental Doha The City DJ – Ala Malisa
-
-																				</p>
-																			</div>
-																		</div>
+																<div>
+																	<div class="shedule-time col-sm-3">
+																		<span>11.30-12.45 PM</span>
+																	</div>
+																	<div class="shedule-text col-sm-9" style="background-color: #f761c7;">
+																		<span>Movements In turn with sacadas in Vals Marcelo & Selva Intermediate Level</span>
+																	</div>
+																</div>
+																<div>
+																	<div class="shedule-time1 col-sm-3">
+																		<span>1.30-2.45 PM</span>
+																	</div>
+																	<div class="shedule-text-thursday col-sm-9" style="background-color: #6fa1f7;">
+																		<span>.Musicality Gustavo & Gabriala, All Levels</span>
+																	</div>
+																</div>
+																<div>
+																	<div class="shedule-time1 col-sm-3">
+																		<span>3.00-4.15 PM</span>
+																	</div>
+																	<div class="shedule-text col-sm-9" style="background-color: #f19d6f;">
+																		<span>Tango fantasía challenging movements Alejandro & Fernanda Intermediate & Advanced</span>
+																	</div>
+																</div>
+																<div>
+																	<div class="shedule-time1 col-sm-3">
+																		<span>7.00-11.00 PM</span>
+																	</div>
+																	<div class="shedule-text col-sm-9" style="background-color: #6358f5;">
+																		<span>MILONGA Al Jawhara Ballroom – Intercontinental Doha The City DJ – Ala Malisa</span>
 																	</div>
 																</div>
 															</li>
