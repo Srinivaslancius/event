@@ -80,7 +80,7 @@
 										</ul> -->
 									</li>
 									<li class="<?php if($page_name == 'maesteos.php' || $page_name == 'maesteos_artist1.php' || $page_name == 'maesteos_artist2.php' || $page_name == 'maesteos_artist3.php' || $page_name == 'maesteos_artist4.php') { ?>current-menu-item <?php } ?> menu-item-has-children">
-										<a href="maesteos.php">MAESTEOS</a>
+										<a href="maesteos.php">MAESTRO</a>
 									</li>
 									<li class="<?php if($page_name == 'workshop.php') { ?>current-menu-item <?php } ?> menu-item-has-children">
 										<a href="workshop.php">WORKSHOPS</a>
@@ -92,7 +92,7 @@
 									<li class="<?php if($page_name == 'register.php') { ?>current-menu-item <?php } ?> menu-item-has-children">
 										<a href="register.php">REGISTER</a>
 									</li>
-									<li class="<?php if($page_name == 'about_doha.php') { ?>current-menu-item <?php } ?> menu-item-has-children"><a href="about_doha.php">ABOUT DOHA</a></li>
+									<li class="<?php if($page_name == 'about_doha.php') { ?>current-menu-item <?php } ?> menu-item-has-children"><a href="about_doha.php">ABOUT DOHA AND VENUE</a></li>
 									<li class="<?php if($page_name == 'contact.php') { ?>current-menu-item <?php } ?> menu-item-has-children">
 										<a href="contact.php">CONTACT US</a>
 									</li>
