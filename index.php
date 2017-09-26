@@ -6,6 +6,17 @@
 							<div class="col-sm-12">
 								<div class="noo-countdown">
 									<ul class="full-background">
+										<li style="background-image: url('images/blog/blog1.jpg')" ></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- <div class="row row-fluid">
+						<div class="nocontainer">
+							<div class="col-sm-12">
+								<div class="noo-countdown">
+									<ul class="full-background">
 										<li style="background-image: url('images/blog/blog14.jpg')"></li>
 										<li style="background-image: url('images/blog/blog12.jpg')"></li>
 										<li style="background-image: url('images/blog/blog7.jpg')"></li>
@@ -22,7 +33,7 @@
 								</div>
 							</div>
 						</div>
-					</div>
+					</div> -->
 					<div class="row parallax row-fluid home-upcoming-event">
 						<div class="overlay_parallax"></div>
 							<div class="container">
