@@ -94,7 +94,7 @@
 																		<span>5.00-6.15 PM</span>
 																	</div>
 																	<div class="shedule-text col-sm-9" style="background-color: #6358f5;">
-																		<span>.Walking in cross system, change of direction and connection advice Alejandro & Fernanda Intermediate Level
+																		<span>Walking in cross system, change of direction and connection advice Alejandro & Fernanda Intermediate Level
 																		</span>
 																	</div>
 																</div>
@@ -177,7 +177,7 @@
 																		<span>10.00-11.15 AM</span>
 																	</div>
 																	<div class="shedule-text col-sm-9" style="background-color: #6358f5;">
-																		<span>.Circular movements, giros, enrosques and lápices without loosing the couple connection. Alejandro & Fernanda,Intermediate Level</span>
+																		<span>Circular movements, giros, enrosques and lápices without loosing the couple connection. Alejandro & Fernanda,Intermediate Level</span>
 																	</div>
 																</div>
 																<div>
@@ -193,7 +193,7 @@
 																		<span>1.30-2.45 PM</span>
 																	</div>
 																	<div class="shedule-text-thursday col-sm-9" style="background-color: #6fa1f7;">
-																		<span>.Musicality Gustavo & Gabriala, All Levels</span>
+																		<span>Musicality Gustavo & Gabriala, All Levels</span>
 																	</div>
 																</div>
 																<div>
