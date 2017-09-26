@@ -251,12 +251,12 @@
 													<div class="team_thumbnail">
 														<img src="images/doha_images/Image01_November_1.jpg" alt="team1"/>
 														<div class="team-info">
-															<h4 class="team_name">Workshops</h4>
+															<h4 class="team_name home-change-color">Workshops</h4>
 														</div>
 													</div>
 													<div class="team-detail">
 														<div class="team-detail-position">
-															<p class="ds" style="text-align: center">
+															<p class="ds home-change-color" style="text-align: center">
 																Workshops
 															</p>
 															
@@ -270,12 +270,12 @@
 														<div class="team_thumbnail">
 															<img src="images/doha_images/Image02_November_2.jpg" alt="team1"/>
 															<div class="team-info">
-																<h4 class="team_name">Workshops & Opening Milonga</h4>
+																<h4 class="team_name home-change-color">Workshops & Opening Milonga</h4>
 															</div>
 														</div>
 														<div class="team-detail">
 															<div class="team-detail-position">
-																<p class="ds" style="text-align: center">
+																<p class="ds home-change-color" style="text-align: center">
 																	Workshops & Opening Milonga
 																</p>
 																
@@ -289,12 +289,12 @@
 														<div class="team_thumbnail">
 															<img src="images/doha_images/Image_3_november_3.jpg" alt="team1"/>
 															<div class="team-info">
-																<h4 class="team_name">Festival Night, Gala Dinner & Shows, Milonga</h4>
+																<h4 class="team_name home-change-color">Festival Night, Gala Dinner & Shows, Milonga</h4>
 															</div>
 														</div>
 														<div class="team-detail">
 															<div class="team-detail-position">
-																<p class="ds" style="text-align: center">
+																<p class="ds home-change-color" style="text-align: center">
 																	Festival Night, Gala Dinner & Shows, Milonga
 																</p>
 																
@@ -308,12 +308,12 @@
 														<div class="team_thumbnail">
 															<img src="images/doha_images/Image04_Nvember4.jpg" alt="team1"/>
 															<div class="team-info">
-																<h4 class="team_name">Workshops & Farewell Milonga </h4>
+																<h4 class="team_name home-change-color">Workshops & Farewell Milonga </h4>
 															</div>
 														</div>
 														<div class="team-detail">
 															<div class="team-detail-position">
-																<p class="ds" style="text-align: center">
+																<p class="ds home-change-color" style="text-align: center">
 																	Workshops & Farewell Milonga 
 																</p>
 																
