@@ -17,7 +17,7 @@
  								<div class="nocontainer">
 									<div class="col-sm-12">
 										<div class="noo_team">
-											<h2 class="noo-team-title">MAESTRO'S</h2>
+											<h2 class="noo-team-title"><span>MAESTRO'S</span></h2>
 												<div class="row row-fluid home-news">
 													<div class="container">
 							
@@ -89,7 +89,8 @@
 																	</div>
 																</div>
 																<div class="noo-sh-blog-content">
-																	
+																	<object class="embed-responsive-item"><iframe width="854" height="320" src="https://www.youtube.com/embed/Bi2sIsX_aX8" frameborder="0" allowfullscreen></iframe>
+																</object>
 																</div>
 																<div class="noo-sh-blog-content" style="width:100%">
 																	 <h3><a href="#">DJ</a></h3> 
