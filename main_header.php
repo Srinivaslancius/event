@@ -80,7 +80,7 @@
 										</ul> -->
 									</li>
 									<li class="<?php if($page_name == 'maesteos.php' || $page_name == 'maesteos_artist1.php' || $page_name == 'maesteos_artist2.php' || $page_name == 'maesteos_artist3.php' || $page_name == 'maesteos_artist4.php') { ?>current-menu-item <?php } ?> menu-item-has-children">
-										<a href="maesteos.php">MAESTRO</a>
+										<a href="maesteos.php">MAESTRO'S</a>
 									</li>
 									<li class="<?php if($page_name == 'workshop.php') { ?>current-menu-item <?php } ?> menu-item-has-children">
 										<a href="workshop.php">WORKSHOPS</a>
