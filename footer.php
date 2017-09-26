@@ -163,7 +163,7 @@
                 var myVar = '';
                 clearInterval(myVar);
                 myVar = setInterval(function(){
-                    jQuery('.full-background li:first-child').fadeOut(1200).next('li').fadeIn(1200).end().appendTo('.full-background');
+                    jQuery('.full-background li:first-child').appendTo('.full-background');
                 },3500);
 	            
 	                                
