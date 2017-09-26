@@ -124,21 +124,6 @@
 									</div>
 								</div>
 							</div>
-							<div class="col-md-2 col-sm-2">
-								<img src="images/partner_logos/1.jpg" alt="team1" width="70%"/>
-							</div>
-							<div class="col-md-2 col-sm-2">
-								<img src="images/partner_logos/2.png" alt="team1" width="70%"/>
-							</div>
-							<div class="col-md-2 col-sm-2">
-								<img src="images/partner_logos/3.png" alt="team1" width="70%"/>
-							</div>
-							<div class="col-md-2 col-sm-2">
-								<img src="images/partner_logos/4.jpg" alt="team1" width="70%"/>
-							</div>
-							<div class="col-md-2 col-sm-2">
-								<img src="images/partner_logos/5.jpg" alt="team1" width="70%"/>
-							</div>
 						</div>
 					</div>  
 				</div>  
