@@ -55,21 +55,25 @@
 									<div class="col-sm-12">
 										<div class="noo_team">
 											<h2 class="sh-event-title">Workshop <span>Schedules</span></h2>
-											<a target="_blank" href="images/workshop_pdf.pdf"><span style="color:#d91f26;">DOWNLOAD WORKSHOP PDF</span></a>
-												<div class="row row-fluid home-news">
+											<div class="col-sm-10">
+											</div>
+											<div class="col-sm-2">
+											<a target="_blank" href="images/workshop_pdf.pdf" style=" text-align:right"><input type="button" value="DOWNLOAD WORKSHOP PDF" style="background-color:#d91f26"/></a>
+											</div>
+												<div class="row row-fluid home-news" style="margin-top:45px">
 													<div class="container">
 							
 														<ul class="noo_news_blog">
 															<li>
 																<div class ="col-sm-12">
-																		<h1 style="text-align: center;">Wednesday-1 Nov 2017</h1>
+																<h1 style="text-align:center; margin-top:-28px; font-size:29px">Wednesday-1 Nov 2017</h1>
 																</div>
 																<div>
 																	<div class="shedule-time col-sm-3">
 																		<span>8.00- 8.45 PM</span>
 																	</div>
 																	<div class="shedule-text col-sm-9" style="background-color: #6358f5;">
-																		<span style="font-size:22px">Chacarera with Marcelo & Selva Free Entrance for All</span>
+																		<span>Chacarera with Marcelo & Selva Free Entrance for All</span>
 																	</div>
 																</div>
 																<div>
@@ -77,20 +81,20 @@
 																		<span>9.00 - 10.15 PM</span>
 																	</div>
 																	<div class="shedule-text col-sm-9" style="background-color: #f761c7;">
-																		<span style="font-size:22px">The Basics of TangoPosture, Embrace, Walk, Balance Gustavo & Gabriela Beginners Level</span>
+																		<span>The Basics of TangoPosture, Embrace, Walk, Balance Gustavo & Gabriela Beginners Level</span>
 																	</div>
 																</div>
 															</li>
 															<li>
 																<div class ="col-sm-12">
-																		<h1 style="text-align: center;">Thursday - 2 Nov -2017</h1>
+																		<h1 style="text-align:center; margin-top:-28px;font-size:29px">Thursday - 2 Nov -2017</h1>
 																</div>
 																<div>
 																	<div class="shedule-time-thursday shedule-time col-sm-3">
 																		<span>5.00-6.15 PM</span>
 																	</div>
 																	<div class="shedule-text col-sm-9" style="background-color: #6358f5;">
-																		<span style="font-size:22px">Walking in cross system, change of direction and connection advice Alejandro & Fernanda Intermediate Level
+																		<span>Walking in cross system, change of direction and connection advice Alejandro & Fernanda Intermediate Level
 																		</span>
 																	</div>
 																</div>
@@ -99,7 +103,7 @@
 																		<span>6.30-7.45 PM</span>
 																	</div>
 																	<div class="shedule-text col-sm-9" style="background-color: #f761c7;">
-																		<span style="font-size:22px">Basic structures and development, applying elements (Ganchos, Boleos, Sacadas y Barridas). Marcelo & Selva Beginners & Intermediate Level</span>
+																		<span>Basic structures and development, applying elements (Ganchos, Boleos, Sacadas y Barridas). Marcelo & Selva Beginners & Intermediate Level</span>
 																	</div>
 																</div>
 																<div>
@@ -107,7 +111,7 @@
 																		<span>8.00-9.15 PM</span>
 																	</div>
 																	<div class="shedule-text col-sm-9" style="background-color: #6fa1f7;">
-																		<span style="font-size:22px">Beginners Leval 2 Gustavo & Gabriala Beginners Level</span>
+																		<span>Beginners Leval 2 Gustavo & Gabriala Beginners Level</span>
 																	</div>
 																</div>
 																<div>
@@ -115,20 +119,20 @@
 																		<span>9.30-12.30 AM</span>
 																	</div>
 																	<div class="shedule-text-thursday col-sm-9" style="background-color: #f19d6f;">
-																		<span style="font-size:22px">MILONGA Intercontinental Doha The City</span>
+																		<span>MILONGA Intercontinental Doha The City</span>
 																	</div>
 																</div>
 															</li>
 															<li>
 																<div class ="col-sm-12">
-																		<h1 style="text-align: center;">Friday - 3 Nov -2017</h1>
+																		<h1 style="text-align: center; margin-top:-28px;font-size:29px">Friday - 3 Nov -2017</h1>
 																</div>
 																<div>
 																	<div class="shedule-time-thursday col-sm-3">
 																		<span>10.00-11.15 AM</span>
 																	</div>
 																	<div class="shedule-text col-sm-9" style="background-color: #6358f5;">
-																		<span style="font-size:22px">Tango Vals - change of dynamic (using the flow) and musicality Alejandro & Fernanda Intermediate Level</span>
+																		<span>Tango Vals - change of dynamic (using the flow) and musicality Alejandro & Fernanda Intermediate Level</span>
 																	</div>
 																</div>
 																<div>
@@ -136,7 +140,7 @@
 																		<span>11.30-12.45 PM</span>
 																	</div>
 																	<div class="shedule-text col-sm-9" style="background-color: #f761c7;">
-																		<span style="font-size:22px">Milonga Different combinations for improvisation playing with the rhythm. Marcelo & Selva Intermediate Level</span>
+																		<span>Milonga Different combinations for improvisation playing with the rhythm. Marcelo & Selva Intermediate Level</span>
 																	</div>
 																</div>
 																<div>
@@ -144,7 +148,7 @@
 																		<span>1.30-2.45 PM</span>
 																	</div>
 																	<div class="shedule-text col-sm-9" style="background-color: #6fa1f7;">
-																		<span style="font-size:22px">Technical Giro, sacadas all possibilities and different combinations. Gustavo & Gabriala Intermediate Level</span>
+																		<span>Technical Giro, sacadas all possibilities and different combinations. Gustavo & Gabriala Intermediate Level</span>
 																	</div>
 																</div>
 																<div>
@@ -152,7 +156,7 @@
 																		<span>3.00-4.15 PM</span>
 																	</div>
 																	<div class="shedule-text col-sm-9" style="background-color: #f19d6f;">
-																		<span style="font-size:22px">Rhythmic circular movements for Vals Marcelo & Selva Intermediate Level</span>
+																		<span>Rhythmic circular movements for Vals Marcelo & Selva Intermediate Level</span>
 																	</div>
 																</div>
 																<div>
@@ -160,20 +164,20 @@
 																		<span>8.00 PM - 01.00 AM</span>
 																	</div>
 																	<div class="shedule-text col-sm-9" style="background-color: #6358f5;">
-																		<span style="font-size:22px">Festival Night Gala Dinner & Tango Shows Followed by Milonga</span>
+																		<span>Festival Night Gala Dinner & Tango Shows Followed by Milonga</span>
 																	</div>
 																</div>
 															</li>
 															<li>
 																<div class ="col-sm-12">
-																		<h1 style="text-align: center;">Saturday - 4 Nov -2017</h1>
+																		<h1 style="text-align: center; margin-top:-28px;font-size:29px">Saturday - 4 Nov -2017</h1>
 																</div>
 																<div>
 																	<div class="shedule-time-thursday col-sm-3">
 																		<span>10.00-11.15 AM</span>
 																	</div>
 																	<div class="shedule-text col-sm-9" style="background-color: #6358f5;">
-																		<span style="font-size:22px">Circular movements, giros, enrosques and lápices without loosing the couple connection. Alejandro & Fernanda,Intermediate Level</span>
+																		<span>Circular movements, giros, enrosques and lápices without loosing the couple connection. Alejandro & Fernanda,Intermediate Level</span>
 																	</div>
 																</div>
 																<div>
@@ -181,7 +185,7 @@
 																		<span>11.30-12.45 PM</span>
 																	</div>
 																	<div class="shedule-text col-sm-9" style="background-color: #f761c7;">
-																		<span style="font-size:22px">Movements In turn with sacadas in Vals Marcelo & Selva Intermediate Level</span>
+																		<span>Movements In turn with sacadas in Vals Marcelo & Selva Intermediate Level</span>
 																	</div>
 																</div>
 																<div>
@@ -189,7 +193,7 @@
 																		<span>1.30-2.45 PM</span>
 																	</div>
 																	<div class="shedule-text-thursday col-sm-9" style="background-color: #6fa1f7;">
-																		<span style="font-size:22px">Musicality Gustavo & Gabriala, All Levels</span>
+																		<span>Musicality Gustavo & Gabriala, All Levels</span>
 																	</div>
 																</div>
 																<div>
@@ -197,7 +201,7 @@
 																		<span>3.00-4.15 PM</span>
 																	</div>
 																	<div class="shedule-text col-sm-9" style="background-color: #f19d6f;">
-																		<span style="font-size:22px">Tango fantasía challenging movements Alejandro & Fernanda Intermediate & Advanced</span>
+																		<span>Tango fantasía challenging movements Alejandro & Fernanda Intermediate & Advanced</span>
 																	</div>
 																</div>
 																<div>
@@ -205,7 +209,7 @@
 																		<span>7.00-11.00 PM</span>
 																	</div>
 																	<div class="shedule-text col-sm-9" style="background-color: #6358f5;">
-																		<span style="font-size:22px">MILONGA Al Jawhara Ballroom – Intercontinental Doha The City DJ – Ala Malisa</span>
+																		<span>MILONGA Al Jawhara Ballroom – Intercontinental Doha The City DJ – Ala Malisa</span>
 																	</div>
 																</div>
 															</li>
