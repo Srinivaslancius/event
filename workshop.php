@@ -41,14 +41,8 @@
 		}
 
 	</style>
-			<div class="noo-page-heading">
-				<div class="container">
-					<div class="noo-page-breadcrumb">
-						<div class="breadcrumb-wrap">
- 							<span><a href="#" class="home">Home</a></span><i>&#047;</i> <span><span>Workshop</span></span>
- 						</div>
-					</div>
-				</div> 
+			<div class="noo-page-heading-Workshop">
+				<img src="images/Doha-Skyline-Night-Cityscape-Paul-Reiffer-Professional-Landscape-Medium-Format-Phase-One-Photography-Photographer-UAE-Middle-East-Qatar.jpg" alt="blog12" style="width:100%; height:250px;"; />
 			</div>
 										
 		<div class="container-wrap">
@@ -73,7 +67,7 @@
 																		<span>8.00- 8.45 PM</span>
 																	</div>
 																	<div class="shedule-text col-sm-9" style="background-color: #6358f5;">
-																		<span>Chacarera with Marcelo & Selva Free Entrance for All</span>
+																		<span style="font-size:22px">Chacarera with Marcelo & Selva Free Entrance for All</span>
 																	</div>
 																</div>
 																<div>
@@ -81,7 +75,7 @@
 																		<span>9.00 - 10.15 PM</span>
 																	</div>
 																	<div class="shedule-text col-sm-9" style="background-color: #f761c7;">
-																		<span>The Basics of TangoPosture, Embrace, Walk, Balance Gustavo & Gabriela Beginners Level</span>
+																		<span style="font-size:22px">The Basics of TangoPosture, Embrace, Walk, Balance Gustavo & Gabriela Beginners Level</span>
 																	</div>
 																</div>
 															</li>
@@ -94,7 +88,7 @@
 																		<span>5.00-6.15 PM</span>
 																	</div>
 																	<div class="shedule-text col-sm-9" style="background-color: #6358f5;">
-																		<span>Walking in cross system, change of direction and connection advice Alejandro & Fernanda Intermediate Level
+																		<span style="font-size:22px">Walking in cross system, change of direction and connection advice Alejandro & Fernanda Intermediate Level
 																		</span>
 																	</div>
 																</div>
@@ -103,7 +97,7 @@
 																		<span>6.30-7.45 PM</span>
 																	</div>
 																	<div class="shedule-text col-sm-9" style="background-color: #f761c7;">
-																		<span>Basic structures and development, applying elements (Ganchos, Boleos, Sacadas y Barridas). Marcelo & Selva Beginners & Intermediate Level</span>
+																		<span style="font-size:22px">Basic structures and development, applying elements (Ganchos, Boleos, Sacadas y Barridas). Marcelo & Selva Beginners & Intermediate Level</span>
 																	</div>
 																</div>
 																<div>
@@ -111,7 +105,7 @@
 																		<span>8.00-9.15 PM</span>
 																	</div>
 																	<div class="shedule-text col-sm-9" style="background-color: #6fa1f7;">
-																		<span>Beginners Leval 2 Gustavo & Gabriala Beginners Level</span>
+																		<span style="font-size:22px">Beginners Leval 2 Gustavo & Gabriala Beginners Level</span>
 																	</div>
 																</div>
 																<div>
@@ -119,7 +113,7 @@
 																		<span>9.30-12.30 AM</span>
 																	</div>
 																	<div class="shedule-text-thursday col-sm-9" style="background-color: #f19d6f;">
-																		<span>MILONGA Intercontinental Doha The City</span>
+																		<span style="font-size:22px">MILONGA Intercontinental Doha The City</span>
 																	</div>
 																</div>
 															</li>
@@ -132,7 +126,7 @@
 																		<span>10.00-11.15 AM</span>
 																	</div>
 																	<div class="shedule-text col-sm-9" style="background-color: #6358f5;">
-																		<span>Tango Vals - change of dynamic (using the flow) and musicality Alejandro & Fernanda Intermediate Level</span>
+																		<span style="font-size:22px">Tango Vals - change of dynamic (using the flow) and musicality Alejandro & Fernanda Intermediate Level</span>
 																	</div>
 																</div>
 																<div>
@@ -140,7 +134,7 @@
 																		<span>11.30-12.45 PM</span>
 																	</div>
 																	<div class="shedule-text col-sm-9" style="background-color: #f761c7;">
-																		<span>Milonga Different combinations for improvisation playing with the rhythm. Marcelo & Selva Intermediate Level</span>
+																		<span style="font-size:22px">Milonga Different combinations for improvisation playing with the rhythm. Marcelo & Selva Intermediate Level</span>
 																	</div>
 																</div>
 																<div>
@@ -148,7 +142,7 @@
 																		<span>1.30-2.45 PM</span>
 																	</div>
 																	<div class="shedule-text col-sm-9" style="background-color: #6fa1f7;">
-																		<span>Technical Giro, sacadas all possibilities and different combinations. Gustavo & Gabriala Intermediate Level</span>
+																		<span style="font-size:22px">Technical Giro, sacadas all possibilities and different combinations. Gustavo & Gabriala Intermediate Level</span>
 																	</div>
 																</div>
 																<div>
@@ -156,7 +150,7 @@
 																		<span>3.00-4.15 PM</span>
 																	</div>
 																	<div class="shedule-text col-sm-9" style="background-color: #f19d6f;">
-																		<span>Rhythmic circular movements for Vals Marcelo & Selva Intermediate Level</span>
+																		<span style="font-size:22px">Rhythmic circular movements for Vals Marcelo & Selva Intermediate Level</span>
 																	</div>
 																</div>
 																<div>
@@ -164,7 +158,7 @@
 																		<span>8.00 PM - 01.00 AM</span>
 																	</div>
 																	<div class="shedule-text col-sm-9" style="background-color: #6358f5;">
-																		<span>Festival Night Gala Dinner & Tango Shows Followed by Milonga</span>
+																		<span style="font-size:22px">Festival Night Gala Dinner & Tango Shows Followed by Milonga</span>
 																	</div>
 																</div>
 															</li>
@@ -177,7 +171,7 @@
 																		<span>10.00-11.15 AM</span>
 																	</div>
 																	<div class="shedule-text col-sm-9" style="background-color: #6358f5;">
-																		<span>Circular movements, giros, enrosques and lápices without loosing the couple connection. Alejandro & Fernanda,Intermediate Level</span>
+																		<span style="font-size:22px">Circular movements, giros, enrosques and lápices without loosing the couple connection. Alejandro & Fernanda,Intermediate Level</span>
 																	</div>
 																</div>
 																<div>
@@ -185,7 +179,7 @@
 																		<span>11.30-12.45 PM</span>
 																	</div>
 																	<div class="shedule-text col-sm-9" style="background-color: #f761c7;">
-																		<span>Movements In turn with sacadas in Vals Marcelo & Selva Intermediate Level</span>
+																		<span style="font-size:22px">Movements In turn with sacadas in Vals Marcelo & Selva Intermediate Level</span>
 																	</div>
 																</div>
 																<div>
@@ -193,7 +187,7 @@
 																		<span>1.30-2.45 PM</span>
 																	</div>
 																	<div class="shedule-text-thursday col-sm-9" style="background-color: #6fa1f7;">
-																		<span>Musicality Gustavo & Gabriala, All Levels</span>
+																		<span style="font-size:22px">Musicality Gustavo & Gabriala, All Levels</span>
 																	</div>
 																</div>
 																<div>
@@ -201,7 +195,7 @@
 																		<span>3.00-4.15 PM</span>
 																	</div>
 																	<div class="shedule-text col-sm-9" style="background-color: #f19d6f;">
-																		<span>Tango fantasía challenging movements Alejandro & Fernanda Intermediate & Advanced</span>
+																		<span style="font-size:22px">Tango fantasía challenging movements Alejandro & Fernanda Intermediate & Advanced</span>
 																	</div>
 																</div>
 																<div>
@@ -209,7 +203,7 @@
 																		<span>7.00-11.00 PM</span>
 																	</div>
 																	<div class="shedule-text col-sm-9" style="background-color: #6358f5;">
-																		<span>MILONGA Al Jawhara Ballroom – Intercontinental Doha The City DJ – Ala Malisa</span>
+																		<span style="font-size:22px">MILONGA Al Jawhara Ballroom – Intercontinental Doha The City DJ – Ala Malisa</span>
 																	</div>
 																</div>
 															</li>

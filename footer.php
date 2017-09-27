@@ -1,88 +1,7 @@
-	<footer class="colophon site-info">
+	<footer class="colophon site-info" style="padding-top:0px; padding-bottom:20px">
 				<div class="colophon wigetized">
 					<div class="background-footer"></div>
 					<div class="container">
-						<!-- <div class="row noo-footer-main"> -->
-							<!-- <div class="col-md-4 col-sm-6">
-								<div class="widget widget_text">
-									<h4 class="widget-title">About Us</h4>
-									<div class="textwidget">
-										<p>
-											Capital and largest city of Qatar.Situated almost midway down the east coast of the Qatari peninsula, Doha is the country's center of administration,finance, culture, transportation, and social services.
-										</p>
-										<p>
-											The modern city grew from the fishing and pearling port of al-Bida, which at the end of the nineteenth century had around 12,000 inhabitants.The town's economy depended to a large extent on pearling, and the busy port had some 300 pearling ships in 1939, just before the industry collapsed.
-										</p>
-									</div>
-								</div>
-							</div> -->
-							<!-- <div class="col-md-4 col-sm-6">
-								<div class="widget tribe-events-adv-list-widget">
-									<h4 class="widget-title">Upcoming Events</h4>
-									<div class="tribe-mini-calendar-event">
-										<div class="list-date">
-											<span class="list-dayname">Mon</span>
-											<span class="list-daynumber">28</span>
-										</div>
-										<div class="list-info">
-											<h2 class="entry-title summary">
-												<a href="#">Fiddler&#8217;s Green Amphitheatre</a>
-											</h2>
-											<div class="duration">
-												<span class="date-start dtstart">June 1-8:00 pm</span>
-												-
-												<span class="date-end dtend">October 31-10:00 pm</span>
-											</div>
-										</div>  
-									</div>
-									<div class="tribe-mini-calendar-event">
-										<div class="list-date">
-											<span class="list-dayname">Mon</span>
-											<span class="list-daynumber">28</span>
-										</div>
-										<div class="list-info">
-											<h2 class="entry-title summary">
-												<a href="#">Editions in the gallery cafe</a>
-											</h2>
-											<div class="duration">
-												<span class="date-start dtstart">June 1-9:30 pm</span>
-												-
-												<span class="date-end dtend">October 31-10:30 pm</span>
-											</div>
-										</div>  
-									</div>
-									<div class="tribe-mini-calendar-event">
-										<div class="list-date">
-											<span class="list-dayname">Mon</span>
-											<span class="list-daynumber">28</span>
-										</div>
-										<div class="list-info">
-											<h2 class="entry-title summary">
-												<a href="#">Ultra Music Festival</a>
-											</h2>
-											<div class="duration">
-												<span class="date-start dtstart">June 3-8:00 am</span>
-												-
-												<span class="date-end dtend">November 30-5:00 pm</span>
-											</div>
-										</div>  
-									</div>
-								</div>
-							</div> -->
-							<!-- <div class="col-md-4 col-sm-6">
-								<div class="widget mailchimp-widget">
-									<h4 class="widget-title">Subscribe</h4>
-									<form class="mc-subscribe-form">
-										<label>Pellentesque at condimentum ligula. Donec nisi nisi, porttitor a erat ac, fringilla ntum tellus.</label>
-										<div class="input-mail">
-											<input type="email" name="mc_email" class="mc-email" value="" placeholder="Enter your email here..."/>
-											<i class="fa fa-envelope-o icon-mc-email"></i>
-										</div>
-										<button disabled>Subscribe now</button>
-									</form>
-								</div>
-							</div> -->
-						<!-- </div> -->  
 						<div class="noo-footer-bottom">
 							<div class="widget widget_noo_infomation">
 								<ul class="noo-infomation">
@@ -100,7 +19,26 @@
 									</li>
 								</ul>
 							</div>
-							<div class="widget widget_noo_social">
+							<div class="row" style="padding-top:1px">
+								<div class="widget commerce widget_top_rated_products">
+									<h4 class="widget-title">Our Partners</h4>
+									
+									<div class="col-md-3 col-sm-3">
+										<center><img src="images/logos/1.jpg" alt="logo"/></center>
+									</div>
+									<div class="col-md-3 col-sm-3">
+										<center><img src="images/logos/2.jpg" alt="logo"/></center>
+									</div>
+									<div class="col-md-3 col-sm-3">
+										<center><img src="images/logos/3.jpg" alt="logo"/></center>
+									</div>
+									<div class="col-md-3 col-sm-3">
+										<center><img src="images/logos/4.jpg" alt="logo"/></center>
+									</div>										
+                                    
+								</div>
+							</div>
+							<div class="widget widget_noo_social"style="margin-bottom:-35px">
 								<div class="noo_social">
 									<div class="social-all">
 										<span class="footer-social" >

@@ -1,12 +1,6 @@
 <?php include_once "main_header.php"; ?>
-			<div class="noo-page-heading">
-				<div class="container">
-					<div class="noo-page-breadcrumb">
-						<div class="breadcrumb-wrap">
- 							<span><a href="#" class="home">Home</a></span><i>&#047;</i> <span><span>About Doha and venue</span></span>
- 						</div>
-					</div>
-				</div> 
+			<div class="noo-page-heading-about_doha">
+				<img src="images/Doha-Skyline-Night-Cityscape-Paul-Reiffer-Professional-Landscape-Medium-Format-Phase-One-Photography-Photographer-UAE-Middle-East-Qatar.jpg" alt="blog12" style="width:100%; height:250px;"; />
 			</div>
 			<div class="row parallax row-fluid home-upcoming-event">
 				<div class="overlay_parallax"></div>
@@ -221,7 +215,7 @@
 														</div>
 													</div>
 												</div>
-												<div class="col-md-6 col-sm-6">
+												<div class="col-md-4 col-sm-4">
 													<div class="noo_team_item">
 														<div class="team_thumbnail">
 															<img width="770" height="770" src="images/doha_images/img1.jpg" alt="team6"/>
@@ -253,7 +247,7 @@
 														</div>
 													</div>
 												</div>
-												<div class="col-md-6 col-sm-6">
+												<div class="col-md-4 col-sm-4">
 													<div class="noo_team_item">
 														<div class="team_thumbnail">
 															<img width="770" height="770" src="images/doha_images/img2.jpg" alt="team6"/>
@@ -285,7 +279,7 @@
 														</div>
 													</div>
 												</div>
-												<div class="col-md-6 col-sm-6">
+												<div class="col-md-4 col-sm-4">
 													<div class="noo_team_item">
 														<div class="team_thumbnail">
 															<img width="770" height="770" src="images/doha_images/img3.jpg" alt="team6"/>
