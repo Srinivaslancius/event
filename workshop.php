@@ -54,7 +54,7 @@
 									<div class="col-sm-12">
 										<div class="noo_team">
 											<h2 class="sh-event-title">Workshop <span>Schedules</span></h2>
-											<a download target="_blank" href="images/workshop_pdf.pdf"><span style="color:#d91f26;">DOWNLOAD WORKSHOP PDF</span></a>
+											<a target="_blank" href="images/workshop_pdf.pdf"><span style="color:#d91f26;">DOWNLOAD WORKSHOP PDF</span></a>
 												<div class="row row-fluid home-news">
 													<div class="container">
 							
