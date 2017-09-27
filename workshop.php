@@ -41,6 +41,7 @@
 		}
 
 	</style>
+
 			<div class="noo-page-heading-Workshop">
 				<img src="images/Doha-Skyline-Night-Cityscape-Paul-Reiffer-Professional-Landscape-Medium-Format-Phase-One-Photography-Photographer-UAE-Middle-East-Qatar.jpg" alt="blog12" style="width:100%; height:250px;"; />
 			</div>
@@ -54,6 +55,7 @@
 									<div class="col-sm-12">
 										<div class="noo_team">
 											<h2 class="sh-event-title">Workshop <span>Schedules</span></h2>
+											<a target="_blank" href="images/workshop_pdf.pdf"><span style="color:#d91f26;">DOWNLOAD WORKSHOP PDF</span></a>
 												<div class="row row-fluid home-news">
 													<div class="container">
 							

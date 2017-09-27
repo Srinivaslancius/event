@@ -11,7 +11,7 @@
  								<div class="nocontainer">
 									<div class="col-sm-12">
 										<div class="noo_team">
-											<h2 class="noo-team-title"><span>MAESTRO'S</span></h2>
+											<h2 class="noo-team-title"><span>MAESTROS</span></h2>
 												<div class="row row-fluid home-news">
 													<div class="container">
 							
