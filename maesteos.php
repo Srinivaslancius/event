@@ -1,12 +1,6 @@
 <?php include_once "main_header.php"; ?>
-			<div class="noo-page-heading">
-				<div class="container">
-					<div class="noo-page-breadcrumb">
-						<div class="breadcrumb-wrap">
- 							<span><a href="#" class="home">Home</a></span><i>&#047;</i> <span><span>MAESTRO'S</span></span>
- 						</div>
-					</div>
-				</div> 
+			<div class="noo-page-heading-mastero">
+				<img src="images/Doha-Skyline-Night-Cityscape-Paul-Reiffer-Professional-Landscape-Medium-Format-Phase-One-Photography-Photographer-UAE-Middle-East-Qatar.jpg" alt="blog12" style="width:100%; height:250px;"; />
 			</div>								
 										
 		<div class="container-wrap">
