@@ -70,7 +70,7 @@
 																</div>
 																<div>
 																	<div class="shedule-time col-sm-3">
-																		<span>8.00- 8.45 PM</span>
+																		<span>8.00 - 9.15 PM</span>
 																	</div>
 																	<div class="shedule-text col-sm-9" style="background-color: #6358f5;">
 																		<span>Chacarera with Marcelo & Selva Free Entrance for All</span>
@@ -78,7 +78,7 @@
 																</div>
 																<div>
 																	<div class="shedule-time1 col-sm-3">
-																		<span>9.00 - 10.15 PM</span>
+																		<span>9.30 - 10.45 PM</span>
 																	</div>
 																	<div class="shedule-text col-sm-9" style="background-color: #f761c7;">
 																		<span>The Basics of TangoPosture, Embrace, Walk, Balance Gustavo & Gabriela Beginners Level</span>
