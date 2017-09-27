@@ -32,7 +32,7 @@
 											<li>
 												<span class="contact-title">TELEPHONE</span>
 												<i class="fa fa-phone"></i>
-												+974 4015 8888  / +974 7021 8752
+												+974 77273826
 											</li>
 											<li>
 												<span class="contact-title">EMAIL</span>

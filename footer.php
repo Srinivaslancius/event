@@ -11,7 +11,7 @@
 									</li>
 									<li class="info-phone">
 										<span class="fa fa-phone infomation-left"></span>
-										<span>+974 4015 8888</span>
+										<span>+974 77273826</span>
 									</li>
 									<li class="info-mail">
 										<span class="fa fa-envelope-o infomation-left"></span>
