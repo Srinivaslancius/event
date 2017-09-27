@@ -55,10 +55,9 @@
 									<div class="col-sm-12">
 										<div class="noo_team">
 											<h2 class="sh-event-title">Workshop <span>Schedules</span></h2>
-											<div class="col-sm-10">
-											</div>
-											<div class="col-sm-2">
-											<a target="_blank" href="images/workshop_pdf.pdf" style=" text-align:right"><input type="button" value="DOWNLOAD WORKSHOP PDF" style="background-color:#d91f26"/></a>
+											
+											<div class="col-sm-2" style="float:right;top: -17px;margin-right: 14px;">
+												<a target="_blank" href="images/workshop_pdf.pdf" ><input class="button" value="DOWNLOAD WORKSHOP PDF" style="background-color:#d91f26; border-bottom:none;" type="submit"></a>
 											</div>
 												<div class="row row-fluid home-news" style="margin-top:45px">
 													<div class="container">
