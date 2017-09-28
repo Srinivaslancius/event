@@ -9,3 +9,32 @@
 .home-change-color {
 	color:#fffff !important;
 }
+/* registration page*/
+.button1 {
+    background-color: transparent;
+    border: 2px solid #d91f26;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+	
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.button3 {padding: 14px 32px;
+   }
+.button4 {
+	padding-left: 15px;
+	padding-right:15px;
+	padding-top:5px;
+	padding-bottom:5px;
+
+	}
+	@media only screen and (max-width: 480px) {
+    .button1 .button4{
+background-color:transparent;
+color:black;
+    }
+}
+	
