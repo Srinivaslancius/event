@@ -31,10 +31,6 @@
 	padding-bottom:5px;
 
 	}
-	@media only screen and (max-width: 480px) {
-    .button1 .button4{
-background-color:transparent;
-color:black;
-    }
-}
+	
+	
 	
