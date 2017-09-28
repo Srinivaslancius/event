@@ -2,7 +2,7 @@
 			<div class="noo-page-heading-Workshop">
 				<img src="images/Doha-Skyline-Night-Cityscape-Paul-Reiffer-Professional-Landscape-Medium-Format-Phase-One-Photography-Photographer-UAE-Middle-East-Qatar.jpg" alt="blog12" style="width:100%; height:250px;"; />
 			</div>
-			<div class="row parallax row-fluid home-upcoming-event" style="padding-bottom:12px">
+			<div class="row parallax row-fluid home-upcoming-event" style="padding-bottom:55px">
 				<div class="overlay_parallax"></div>
 					<div class="container">
 						<div class="row">			
