@@ -9,31 +9,22 @@
 								<div class="noo-shortcode-events">
 								<h2 class="sh-event-title">register</h2>
 									<div class="container-wrap">
-										
-											
-												
-													
-															
-						<center><div class="col-md-12 col-sm-12">
-						<a href="http://buytickets.at/tangoclubqatar/118379"><button class="button1 button3" style="background-color:#d91f26; color:white; margin-bottom:15px">Gala Dinner Tickets</button></a></div>
-						<div class="col-md-12 col-sm-12">
-					<a href="http://buytickets.at/tangoclubqatar/118379" style="background-color:transparent; color:black;"><button class="button1 button4">Regular 325 QAR<br>Incl Buffet</button></a>
-							<a href="http://buytickets.at/tangoclubqatar/118379" style="background-color:transparent; color:black;"><button class="button1 button4">VIP 425 QAR Incl Buffet<br>+ 2 selected Beverages</button></a>						
-						
-						</div></center>
-							<center><div class="col-md-12 col-sm-12">
-							<a href="http://buytickets.at/tangoclubqatar/118379"><button class="button1 button3" style="background-color:#d91f26; color:white; margin-bottom:15px; margin-top:15px">Workshop Registrations</button></a>
-							</div>
-							<div class="col-md-12 col-sm-12">
-							<a href="http://buytickets.at/tangoclubqatar/118379"style="background-color:transparent; color:black;"><button class="button1 button4">Gold</button></a>
-							<a href="http://buytickets.at/tangoclubqatar/118379"style="background-color:transparent; color:black;"><button class="button1 button4">Silver</button></a>
-							<a href="http://buytickets.at/tangoclubqatar/118379"style="background-color:transparent; color:black;"><button class="button1 button4">Bronze</button></a>
-							<a href="http://buytickets.at/tangoclubqatar/118379"style="background-color:transparent; color:black;"><button class="button1 button4">Milonga</button></a>
-							<a href="http://buytickets.at/tangoclubqatar/118379"style="background-color:transparent; color:black;"><button class="button1 button4">Per Lession</button></a>
-							</div>
-							
-							
-					
+										<center><div class="col-md-12 col-sm-12">
+										<button class="button1 button3" style="background-color:#d91f26; color:white; margin-bottom:15px">Gala Dinner Tickets</button></div>
+										<div class="col-md-12 col-sm-12">
+											<a href="http://buytickets.at/tangoclubqatar/118379" style="background-color:transparent; color:black;"><button class="button1 button4">Regular 325 QAR Incl<br>Buffet</button></a>
+											<a href="http://buytickets.at/tangoclubqatar/118379" style="background-color:transparent; color:black;"><button class="button1 button4">VIP 425 QAR Incl Buffet<br>+ 2 selected Beverages</button></a>						
+										</div></center>
+										<center><div class="col-md-12 col-sm-12">
+											<button class="button1 button3" style="background-color:#d91f26; color:white; margin-bottom:15px; margin-top:15px">Workshop Registrations</button>
+											</div>
+											<div class="col-md-12 col-sm-12">
+											<a href="http://buytickets.at/tangoclubqatar/118379"style="background-color:transparent; color:black;"><button class="button1 button4">Gold<br>12 workshops + 2 Milongas</button></a>
+											<a href="http://buytickets.at/tangoclubqatar/118379"style="background-color:transparent; color:black;"><button class="button1 button4">Silver<br>8 Workshops + 2 Milonga</button></a>
+											<a href="http://buytickets.at/tangoclubqatar/118379"style="background-color:transparent; color:black;"><button class="button1 button4">Bronze<br>6 Workshops + 2 Milonga</button></a>
+											<a href="http://buytickets.at/tangoclubqatar/118379"style="background-color:transparent; color:black;"><button class="button1 button4">Per Lesson<br>Price for each workshops</button></a>
+											<a href="http://buytickets.at/tangoclubqatar/118379"style="background-color:transparent; color:black;"><button class="button1 button4">Milonga<br>Price per Milonga</button></a>
+										</div></center>
 									</div>	
 								</div>
 						</div>
