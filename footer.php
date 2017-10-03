@@ -45,19 +45,19 @@
 											<span class="social-name">
 												Follow on facebook
 											</span>
-											<a href="https://www.facebook.com/InterContinental.AMEA/?brand_redir=90015535776" class="fa fa-facebook" target="_blank"></a>
+											<a href="https://www.facebook.com/TangoinQatar" class="fa fa-facebook" target="_blank"></a>
 										</span>
 										<span class="footer-social">
 											<span class="social-name">
 												Follow on twitter
 											</span>
-											<a href="https://twitter.com/interconhotels" class="fa fa-twitter" target="blank"></a>
+											<a href="https://twitter.com/TangoClubQatar" class="fa fa-twitter" target="blank"></a>
 										</span>
 										<span class="footer-social">
 											<span class="social-name">
 												Follow on instagram
 											</span>
-											<a href="https://www.instagram.com/intercontinental/" class="fa fa-instagram" target="blank"></a>
+											<a href="https://www.instagram.com/tangoinqatar/" class="fa fa-instagram" target="blank"></a>
 										</span>
 									</div>
 								</div>
