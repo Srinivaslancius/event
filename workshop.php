@@ -169,7 +169,7 @@
 																		<span>8.00 PM - 01.00 AM</span>
 																	</div>
 																	<div class="shedule-text col-sm-9">
-																		<span>Festival Night Gala Dinner & Tango Shows Followed by Milonga</span>
+																		<span>Festival Night Gala Dinner & Tango Shows Followed by Milonga DJ – Ala Malisa</span>
 																	</div>
 																</div>
 															</li>
