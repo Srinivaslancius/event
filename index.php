@@ -31,7 +31,7 @@
 													<div class="team-detail">
 														<div class="team-detail-position">
 															<p class="ds home-change-color" style="text-align:center; font-size:20px">
-																Workshops
+																Day 1 - Workshops
 															</p>
 															
 														</div>
@@ -44,13 +44,13 @@
 														<div class="team_thumbnail">
 															<img src="images/doha_images/Image02_November_2.jpg" alt="team1"/>
 															<div class="team-info">
-																<h4 class="team_name home-change-color" style="font-size:20px">Workshops & Opening Milonga</h4>
+															 <h4 class="team_name home-change-color" style="font-size:20px">Workshops & Opening Milonga</h4>
 															</div>
 														</div>
 														<div class="team-detail">
 															<div class="team-detail-position">
 																<p class="ds home-change-color" style="text-align:center;font-size:20px">
-																	Workshops & Opening Milonga
+																Day 2 -	Workshops & Opening Milonga
 																</p>
 																
 															</div>
@@ -63,13 +63,13 @@
 														<div class="team_thumbnail">
 															<img src="images/doha_images/Image_3_november_3.jpg" alt="team1"/>
 															<div class="team-info">
-																<h4 class="team_name home-change-color" style="font-size:20px">Festival Night, Gala Dinner & Shows, Milonga</h4>
+																 <h4 class="team_name home-change-color" style="font-size:20px">Festival Night, Gala Dinner & Shows, Milonga</h4>
 															</div>
 														</div>
 														<div class="team-detail">
 															<div class="team-detail-position">
 																<p class="ds home-change-color" style="text-align:center;font-size:20px">
-																	Festival Night, Gala Dinner & Shows, Milonga
+																Day 3 -	Festival Night, Gala Dinner & Shows, Milonga
 																</p>
 																
 															</div>
@@ -88,7 +88,7 @@
 														<div class="team-detail">
 															<div class="team-detail-position">
 																<p class="ds home-change-color" style="text-align:center;;font-size:20px">
-																	Workshops & Farewell Milonga
+																	Day 4 - Workshops & Farewell Milonga
 																</p>
 																
 															</div>

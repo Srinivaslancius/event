@@ -57,7 +57,7 @@
 											<h2 class="sh-event-title">Workshop <span>Schedules</span></h2>
 											
 											<div class="col-sm-2" style="float:right;top: -17px;margin-right: 54px;">
-												<a target="_blank" href="images/workshop_pdf.pdf" ><input class="button" value="DOWNLOAD WORKSHOP PDF" style="background-color:#d91f26; border-bottom:none;" type="submit"></a>
+												<a target="_blank" href="images/Tango_Festival_Workshops_2017.1.pdf" ><input class="button" value="DOWNLOAD WORKSHOP PDF" style="background-color:#d91f26; border-bottom:none;" type="submit"></a>
 											</div>
 												<div class="row row-fluid home-news" style="margin-top:45px">
 													<div class="container">
