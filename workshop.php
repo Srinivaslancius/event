@@ -137,15 +137,12 @@
 																	<div class="shedule-text col-sm-10">
 																		<span>Rhythmic circular movements for Vals Marcelo & Selva Intermediate Level</span>
 																	</div>
-																
-																
 																	<div class="shedule-time col-sm-2">
 																		<span>8.00-01.00 AM</span>
 																	</div>
 																	<div class="shedule-text col-sm-10">
 																		<span>Festival Night Gala Dinner & Tango Shows Followed by Milonga</span>
-																	</div>
-																
+																	</div>																	
 															</li>
 															<li>
 																<div class ="col-sm-12">
