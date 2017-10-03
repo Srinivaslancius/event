@@ -6,8 +6,23 @@
 							<div class="col-sm-12">
 								<div class="noo-countdown">
 									<ul class="full-background">
-										<li style="background-image: url('images/blog/blog1.jpg')" ></li>
-									</ul>
+										<li style="background-image: url('images/blog/blog1.jpg')" ></li></ul>
+										
+							<div class="overlay_parallax"></div>
+									<div class="noo-countdown-content">
+										<div class="container" style="margin-top:350px">
+										<div class="row">
+										<div class="col-sm-9">
+										</div>
+										<div class="col-sm-3">
+											<center><a href="register.php"><button class="button1 button4" style="background-color:transparent; color:white; border: 2px solid #bfae62">Register Now !</button></a>
+											<a href="workshop.php"><button class="button1 button4" style="background-color:transparent; color:white; border: 2px solid #bfae62">Workshop Schedule</button></a></center>
+											</div>
+										</div>
+										</div>
+										
+									</div>
+									
 								</div>
 							</div>
 						</div>
@@ -95,7 +110,6 @@
 														</div>
 													</div>
 												</div>
-
 											</div>
 										</div>
 									</div>
