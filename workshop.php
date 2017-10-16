@@ -6,6 +6,7 @@
 		    background-color: #b1a3a3;
 		    color: #ffffff;
 		    font-size: 25px;
+			text-align:center;
 		}
 		.shedule-time1{
 			padding-top: 69px;
@@ -13,6 +14,7 @@
 		    background-color: #b1a3a3;
 		    color: #ffffff;
 		    font-size: 25px;
+			text-align:center;
 		}
 		.shedule-text{
 			padding-top: 60px;
@@ -38,6 +40,7 @@
 		    background-color: #b1a3a3;
 		    color: #ffffff;
 		    font-size: 25px;
+			text-align:center;
 		}
 
 	</style>
@@ -54,12 +57,12 @@
  								<div class="nocontainer">
 									<div class="col-sm-12">
 										<div class="noo_team">
-											<h2 class="sh-event-title">Workshop <span>Schedules</span></h2>
+											<h2 class="sh-event-title" style="margin-bottom:30px">Workshop <span>Schedules</span></h2>
 											
-											<div class="col-sm-2" style="float:right;top: -17px;margin-right: 54px;">
+											<center><div class="col-sm-2" style="float:right;top: -17px;margin-right: 25px;">
 												<a target="_blank" href="images/Updated_Workshops_Schedules_for_Tango_Festival.pdf" ><input class="button" value="DOWNLOAD WORKSHOP PDF" style="background-color:#d91f26; border-bottom:none;" type="submit"></a>
-											</div>
-												<div class="row row-fluid home-news" style="margin-top:45px">
+											</div></center>
+												<div class="row row-fluid home-news" style="margin-top:60px">
 													<div class="container">
 							
 														<ul class="noo_news_blog">
@@ -68,16 +71,8 @@
 																<h1 style="text-align:center; margin-top:-28px; font-size:29px">Wednesday-1 Nov 2017</h1>
 																</div>
 																<div>
-																	<div class="shedule-time col-sm-3">
-																		<span>8.00- 8.45 PM</span>
-																	</div>
-																	<div class="shedule-text col-sm-9" style="background-color: #6358f5;">
-																		<span>Chacarera with Marcelo & Selva Free Entrance for All</span>
-																	</div>
-																</div>
-																<div>
 																	<div class="shedule-time1 col-sm-3">
-																		<span>9.00 - 10.15 PM</span>
+																		<span>8.00- 8.45 PM</span>
 																	</div>
 																	<div class="shedule-text col-sm-9" style="background-color: #f761c7;">
 																		<span>The Basics of TangoPosture, Embrace, Walk, Balance Gustavo & Gabriela Beginners Level</span>
@@ -89,12 +84,11 @@
 																		<h1 style="text-align:center; margin-top:-28px;font-size:29px">Thursday - 2 Nov -2017</h1>
 																</div>
 																<div>
-																	<div class="shedule-time-thursday shedule-time col-sm-3">
-																		<span>5.00-6.15 PM</span>
+																	<div class="shedule-time col-sm-3">
+																		<span>5.15- 6.15 PM</span>
 																	</div>
 																	<div class="shedule-text col-sm-9" style="background-color: #6358f5;">
-																		<span>Walking in cross system, change of direction and connection advice Alejandro & Fernanda Intermediate Level
-																		</span>
+																		<span>Chacarera with Marcelo & Selva Free Entrance for all</span>
 																	</div>
 																</div>
 																<div>
@@ -102,7 +96,7 @@
 																		<span>6.30-7.45 PM</span>
 																	</div>
 																	<div class="shedule-text col-sm-9" style="background-color: #f761c7;">
-																		<span>Basic structures and development, applying elements (Ganchos, Boleos, Sacadas y Barridas). Marcelo & Selva Beginners & Intermediate Level</span>
+																		<span>Walking in cross system, change of direction and connection advice Alejandro & Fernanda Intermediate Level</span>
 																	</div>
 																</div>
 																<div>
@@ -110,7 +104,7 @@
 																		<span>8.00-9.15 PM</span>
 																	</div>
 																	<div class="shedule-text col-sm-9" style="background-color: #6fa1f7;">
-																		<span>Beginners Leval 2 Gustavo & Gabriala Beginners Level</span>
+																		<span>Beginners Leval 2 Gustavo & Gabriala</span>
 																	</div>
 																</div>
 																<div>
@@ -128,7 +122,7 @@
 																</div>
 																<div>
 																	<div class="shedule-time-thursday col-sm-3">
-																		<span>10.00-11.15 AM</span>
+																		<span>9.30-10.45 AM</span>
 																	</div>
 																	<div class="shedule-text col-sm-9" style="background-color: #6358f5;">
 																		<span>Tango Vals - change of dynamic (using the flow) and musicality Alejandro & Fernanda Intermediate Level</span>
@@ -136,7 +130,7 @@
 																</div>
 																<div>
 																	<div class="shedule-time1 col-sm-3">
-																		<span>11.30-12.45 PM</span>
+																		<span>11.00-12.15 PM</span>
 																	</div>
 																	<div class="shedule-text col-sm-9" style="background-color: #f761c7;">
 																		<span>Milonga Different combinations for improvisation playing with the rhythm. Marcelo & Selva Intermediate Level</span>
@@ -144,26 +138,34 @@
 																</div>
 																<div>
 																	<div class="shedule-time1 col-sm-3">
-																		<span>1.30-2.45 PM</span>
+																		<span>12.30-1.45 PM</span>
 																	</div>
-																	<div class="shedule-text col-sm-9" style="background-color: #6fa1f7;">
-																		<span>Technical Giro, sacadas all possibilities and different combinations. Gustavo & Gabriala Intermediate Level</span>
-																	</div>
-																</div>
-																<div>
-																	<div class="shedule-time col-sm-3">
-																		<span>3.00-4.15 PM</span>
-																	</div>
-																	<div class="shedule-text col-sm-9" style="background-color: #f19d6f;">
-																		<span>Rhythmic circular movements for Vals Marcelo & Selva Intermediate Level</span>
+																	<div class="shedule-text-thursday col-sm-9" style="background-color: #f19d6f;">
+																		<span>Musicality Gustavo & Gabriela All levels</span>
 																	</div>
 																</div>
 																<div>
-																	<div class="shedule-time col-sm-3">
-																		<span>8.00 PM - 01.00 AM</span>
+																	<div class="shedule-time-thursday col-sm-3">
+																		<span>1.45-3.00 PM</span>
 																	</div>
 																	<div class="shedule-text col-sm-9" style="background-color: #6358f5;">
-																		<span>Festival Night Gala Dinner & Tango Shows Followed by Milonga</span>
+																		<span>Tango fantasía challenging movements Alejandro & Fernanda  Intermediate & Advanced</span>
+																	</div>
+																</div>
+																<div>
+																	<div class="shedule-time1 col-sm-3">
+																		<span>3.15-4.30 PM</span>
+																	</div>
+																	<div class="shedule-text col-sm-9" style="background-color: #6fa1f7;">
+																		<span>Basic structures and development, applying elements(Ganchos, Boleos, Sacadas y Barridas). Marcelo & Selva Beginners & Intermediate level</span>
+																	</div>
+																</div>
+																<div>
+																	<div class="shedule-time col-sm-3">
+																		<span>8.00 PM-1.00 AM</span>
+																	</div>
+																	<div class="shedule-text col-sm-9" style="background-color: #f761c7;">
+																		<span>Festival night gala dinner & Tango Shows Followed by Milonga DJ-Ala Melisa</span>
 																	</div>
 																</div>
 															</li>
@@ -187,20 +189,21 @@
 																		<span>Movements In turn with sacadas in Vals Marcelo & Selva Intermediate Level</span>
 																	</div>
 																</div>
+																
 																<div>
 																	<div class="shedule-time1 col-sm-3">
 																		<span>1.30-2.45 PM</span>
 																	</div>
-																	<div class="shedule-text-thursday col-sm-9" style="background-color: #6fa1f7;">
-																		<span>Musicality Gustavo & Gabriala, All Levels</span>
+																	<div class="shedule-text col-sm-9" style="background-color: #6fa1f7;">
+																		<span>Technical Giro, sacadas all possibilities and different combinations. Gustavo & Gabriala Intermediate Level</span>
 																	</div>
 																</div>
 																<div>
 																	<div class="shedule-time1 col-sm-3">
 																		<span>3.00-4.15 PM</span>
 																	</div>
-																	<div class="shedule-text col-sm-9" style="background-color: #f19d6f;">
-																		<span>Tango fantasía challenging movements Alejandro & Fernanda Intermediate & Advanced</span>
+																	<div class="shedule-text-thursday col-sm-9" style="background-color: #f19d6f;">
+																		<span>Rhythmic circular movements for Vals Marcelo & Selva Intermediate level</span>
 																	</div>
 																</div>
 																<div>
